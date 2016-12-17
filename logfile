@@ -290,3 +290,17 @@ pushcnt 19
  loopcnt 88185 
  loopcnt 88186 
  loopcnt 88187 
+
+Fri Dec 16 21:14:27 PST 2016
+cnt 20
+pushcnt 20
+ loopcnt 92878 
+ loopcnt 92879 
+ loopcnt 92880 
+ loopcnt 92881 
+[recFace]-1311: 61(ms 57 to 66) 67 Name:goose  ncnt 100 callcnt 92881
+ loopcnt 92882 
+ loopcnt 92883 
+ loopcnt 92884 
+ loopcnt 92885 
+ loopcnt 92886 
