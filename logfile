@@ -164,3 +164,17 @@ pushcnt 10
  loopcnt 44484 
  loopcnt 44485 
  loopcnt 44486 
+
+Fri Dec 16 19:44:06 PST 2016
+cnt 11
+pushcnt 11
+ loopcnt 49408 
+ loopcnt 49409 
+ loopcnt 49410 
+ loopcnt 49411 
+[recFace]-1311: 66(ms 54 to 66) 85 Name:desk  ncnt 100 callcnt 49411
+ loopcnt 49412 
+ loopcnt 49413 
+ loopcnt 49414 
+ loopcnt 49415 
+ loopcnt 49416 
