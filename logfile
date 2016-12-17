@@ -682,3 +682,17 @@ pushcnt 47
  loopcnt 214990 
  loopcnt 214991 
  loopcnt 214992 
+
+Sat Dec 17 01:55:32 PST 2016
+cnt 48
+pushcnt 48
+ loopcnt 219504 
+ loopcnt 219505 
+ loopcnt 219506 
+ loopcnt 219507 
+ loopcnt 219508 
+ loopcnt 219509 
+ loopcnt 219510 
+ loopcnt 219511 
+[recFace]-1311: 64(ms 56 to 68) 166 Name:cliff dwelling  ncnt 100 callcnt 219511
+ loopcnt 219512 
