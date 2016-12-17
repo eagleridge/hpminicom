@@ -1,0 +1,2 @@
+# hpminicom
+hp minicom.cap
