@@ -1130,3 +1130,17 @@ pushcnt 79
  loopcnt 357394 
  loopcnt 357395 
  loopcnt 357396 
+
+Sat Dec 17 11:56:45 PST 2016
+cnt 108
+pushcnt 80
+[RCS]: /etc/init.d/S80network
+[RCS]: /etc/init.d/S90hibernate
+hi_gmac_v200 10050000.ethernet eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+mount: mounting 192.168.51.25:/home/don/Hi3519SDKV202 on /mnt failed: Connection timed out
+***********NFS mounting done**************
+Auto login as root ...
+login[71]: root login on 'ttyS000'
+Welcome to HiLinux.
+None of nfsroot found in cmdline.
+~ # 
