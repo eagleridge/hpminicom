@@ -920,3 +920,17 @@ pushcnt 64
  loopcnt 291850 
  loopcnt 291851 
  loopcnt 291852 
+
+Sat Dec 17 04:46:13 PST 2016
+cnt 65
+pushcnt 65
+ loopcnt 296369 
+ loopcnt 296370 
+ loopcnt 296371 
+[recFace]-1311: 61(ms 55 to 66) 31 Name:cardigan  ncnt 100 callcnt 296371
+ loopcnt 296372 
+ loopcnt 296373 
+ loopcnt 296374 
+ loopcnt 296375 
+ loopcnt 296376 
+ loopcnt 296377 
