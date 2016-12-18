@@ -1,9 +1,23 @@
 #!/bin/bash
 
 cnt=0
-pushcnt=0
+    # loop count
+cntmax=1000
+    # 1000 is about 6 days
 
-while [ $cnt -lt 1000 ]; do
+pushcnt=0
+pushskipcnt=0
+dt='startstring'
+
+    function loghdr() {
+        echo >> logfile
+        echo -n $dt '  ' >> logfile
+        echo -n cnt $cnt '  ' >> logfile
+        echo -n pushcnt $pushcnt '  ' >> logfile
+        echo pushskipcnt $pushskipcnt >> logfile
+    }
+
+while [ $cnt -lt $cntmax ]; do
 
     let ' cnt = cnt + 1 '
     dt=`date`
@@ -12,20 +26,20 @@ while [ $cnt -lt 1000 ]; do
     rc=$?
     if [ $rc -ne 0 ]; then
         let 'pushcnt = pushcnt +1'
-        echo >> logfile
-        echo $dt >> logfile
-        echo cnt $cnt >> logfile
-        echo pushcnt $pushcnt >> logfile
+        loghdr
+
         cat tmpf1 >> logfile
         echo >> logfile
-        git commit -am 'update_logfile'
-        git push
+    else
+        let 'pushskipcnt = pushskipcnt + 1'
+        loghdr
     fi
+    git commit -am 'update_logfile'
+    git push
 
     echo
     echo '======================================'
-        echo cnt $cnt
-        echo pushcnt $pushcnt 
+        echo cnt $cnt push pushcnt $pushcnt pushskipcnt $pushskipcnt
         echo 
     if [ $cnt -lt 10 ]; then
         echo sleep 60
@@ -36,7 +50,6 @@ while [ $cnt -lt 1000 ]; do
     fi
 
     cp tmpf1 tmpf2
-
 done
 
 echo
