@@ -71,3 +71,15 @@ Sun Dec 18 08:41:37 PST 2016   cnt 6   pushcnt 6   pushskipcnt 0
 [recFace]-1311: 57(ms 57 to 68) 95 Name:wok  ncnt 100 callcnt 2521
  loopcnt 2601 
 [recFace]-1311: 60(ms 57 to 69) 92 Name:punching bag  ncnt 100 callcnt 2611
+
+Sun Dec 18 08:42:40 PST 2016   cnt 7   pushcnt 7   pushskipcnt 0
+ loopcnt 2701 
+[recFace]-1311: 59(ms 57 to 66) 92 Name:punching bag  ncnt 100 callcnt 2701
+[recFace]-1311: 64(ms 57 to 69) 85 Name:desk  ncnt 100 callcnt 2791
+ loopcnt 2801 
+[recFace]-1311: 61(ms 55 to 66) 132 Name:refrigerator  ncnt 100 callcnt 2881
+ loopcnt 2901 
+[recFace]-1311: 59(ms 57 to 66) 132 Name:refrigerator  ncnt 100 callcnt 2971
+ loopcnt 3001 
+[recFace]-1311: 61(ms 57 to 66) 85 Name:desk  ncnt 100 callcnt 3061
+ loopcnt 3101 
