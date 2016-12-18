@@ -131,3 +131,5 @@ Exception stack(0xcf871fa0 to 0xcf871fe8)
 [<c000f0e8>] (arch_cpu_idle) from [<c00504d8>] (cpu_startup_entry+0x108/0x15c)
 [<c00504d8>] (cpu_startup_entry) from [<800086a4>] (0x800086a4)
 ---[ end Kernel panic - not syncing: Fatal exception in interrupt
+
+Sun Dec 18 09:05:50 PST 2016   cnt 12   pushcnt 11   pushskipcnt 1
