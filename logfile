@@ -23,3 +23,15 @@ Sun Dec 18 08:37:29 PST 2016   cnt 2   pushcnt 2   pushskipcnt 0
  loopcnt 501 
 [recFace]-1311: 59(ms 58 to 66) 145 Name:barbershop  ncnt 100 callcnt 541
  loopcnt 601 
+
+Sun Dec 18 08:38:31 PST 2016   cnt 3   pushcnt 3   pushskipcnt 0
+ loopcnt 701 
+[recFace]-1311: 58(ms 55 to 68) 129 Name:sewing machine  ncnt 100 callcnt 721
+ loopcnt 801 
+[recFace]-1311: 57(ms 56 to 66) 85 Name:desk  ncnt 100 callcnt 811
+ loopcnt 901 
+[recFace]-1311: 58(ms 57 to 66) 85 Name:desk  ncnt 100 callcnt 901
+[recFace]-1311: 58(ms 57 to 66) 85 Name:desk  ncnt 100 callcnt 991
+ loopcnt 1001 
+[recFace]-1311: 61(ms 57 to 67) 85 Name:desk  ncnt 100 callcnt 1081
+ loopcnt 1101 
