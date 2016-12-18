@@ -119,3 +119,15 @@ Sun Dec 18 08:45:46 PST 2016   cnt 10   pushcnt 10   pushskipcnt 0
 [recFace]-1311: 60(ms 57 to 67) 31 Name:cardigan  ncnt 100 callcnt 4501
 [recFace]-1311: 61(ms 52 to 70) 7 Name:cliff  ncnt 100 callcnt 4591
  loopcnt 4601 
+
+Sun Dec 18 08:55:48 PST 2016   cnt 11   pushcnt 11   pushskipcnt 0
+[<c0013ba8>] (handle_IPI) from [<c0008604>] (gic_handle_irq+0x58/0x5c)
+[<c0008604>] (gic_handle_irq) from [<c0012400>] (__irq_svc+0x40/0x54)
+Exception stack(0xcf871fa0 to 0xcf871fe8)
+1fa0: cfde4218 00000000 00030ca4 c00196a0 cf870030 c057e460 c057e4c4 c040d834
+1fc0: c05a6911 c05a6911 cf870000 00000000 00000000 cf871fe8 c000f0e4 c000f0e8
+1fe0: 600c0013 ffffffff
+[<c0012400>] (__irq_svc) from [<c000f0e8>] (arch_cpu_idle+0x38/0x3c)
+[<c000f0e8>] (arch_cpu_idle) from [<c00504d8>] (cpu_startup_entry+0x108/0x15c)
+[<c00504d8>] (cpu_startup_entry) from [<800086a4>] (0x800086a4)
+---[ end Kernel panic - not syncing: Fatal exception in interrupt
