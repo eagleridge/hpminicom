@@ -59,3 +59,15 @@ Sun Dec 18 08:40:35 PST 2016   cnt 5   pushcnt 5   pushskipcnt 0
  loopcnt 2001 
 [recFace]-1311: 59(ms 55 to 67) 85 Name:desk  ncnt 100 callcnt 2071
  loopcnt 2101 
+
+Sun Dec 18 08:41:37 PST 2016   cnt 6   pushcnt 6   pushskipcnt 0
+ loopcnt 2201 
+[recFace]-1311: 63(ms 55 to 66) 85 Name:desk  ncnt 100 callcnt 2251
+ loopcnt 2301 
+[recFace]-1311: 63(ms 53 to 66) 85 Name:desk  ncnt 100 callcnt 2341
+ loopcnt 2401 
+[recFace]-1311: 63(ms 57 to 66) 85 Name:desk  ncnt 100 callcnt 2431
+ loopcnt 2501 
+[recFace]-1311: 57(ms 57 to 68) 95 Name:wok  ncnt 100 callcnt 2521
+ loopcnt 2601 
+[recFace]-1311: 60(ms 57 to 69) 92 Name:punching bag  ncnt 100 callcnt 2611
