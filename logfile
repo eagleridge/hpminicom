@@ -107,3 +107,15 @@ Sun Dec 18 08:44:44 PST 2016   cnt 9   pushcnt 9   pushskipcnt 0
 [recFace]-1311: 59(ms 56 to 66) 85 Name:desk  ncnt 100 callcnt 4051
  loopcnt 4101 
 [recFace]-1311: 62(ms 53 to 68) 85 Name:desk  ncnt 100 callcnt 4141
+
+Sun Dec 18 08:45:46 PST 2016   cnt 10   pushcnt 10   pushskipcnt 0
+ loopcnt 4201 
+[recFace]-1311: 61(ms 55 to 66) 85 Name:desk  ncnt 100 callcnt 4231
+ loopcnt 4301 
+[recFace]-1311: 60(ms 55 to 66) 85 Name:desk  ncnt 100 callcnt 4321
+ loopcnt 4401 
+[recFace]-1311: 60(ms 52 to 67) 32 Name:baboon  ncnt 100 callcnt 4411
+ loopcnt 4501 
+[recFace]-1311: 60(ms 57 to 67) 31 Name:cardigan  ncnt 100 callcnt 4501
+[recFace]-1311: 61(ms 52 to 70) 7 Name:cliff  ncnt 100 callcnt 4591
+ loopcnt 4601 
