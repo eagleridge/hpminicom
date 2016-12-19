@@ -514,3 +514,15 @@ Mon Dec 19 14:17:34 PST 2016   cnt 2   pushcnt 2   pushskipcnt 0
 [recFace]-1284: 58(ms 53 to 66) 85 Name:desk  ncnt 100 callcnt 451
  loopcnt 501 
 [recFace]-1284: 61(ms 58 to 65) 85 Name:desk  ncnt 100 callcnt 541
+
+Mon Dec 19 14:18:36 PST 2016   cnt 3   pushcnt 3   pushskipcnt 0
+ loopcnt 601 
+[recFace]-1284: 62(ms 52 to 66) 85 Name:desk  ncnt 100 callcnt 631
+ loopcnt 701 
+[recFace]-1284: 60(ms 52 to 65) 85 Name:desk  ncnt 100 callcnt 721
+ loopcnt 801 
+[recFace]-1284: 59(ms 58 to 65) 85 Name:desk  ncnt 100 callcnt 811
+ loopcnt 901 
+[recFace]-1284: 59(ms 58 to 65) 85 Name:desk  ncnt 100 callcnt 901
+[recFace]-1284: 59(ms 58 to 63) 85 Name:desk  ncnt 100 callcnt 991
+ loopcnt 1001 
