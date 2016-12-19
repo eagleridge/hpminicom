@@ -98,3 +98,14 @@ Face recognition started
 [recFace]-1311: 61(ms 57 to 69) 85 Name:desk  ncnt 100 callcnt 631
  loopcnt 701 
 [recFace]-1311: 64(ms 57 to 67) 69 Name:bullet train  ncnt 100 callcnt 721
+Mon Dec 19 13:33:19 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
+ loopcnt 501 
+[recFace]-1311: 59(ms 57 to 68) 69 Name:bullet train  ncnt 100 callcnt 541
+ loopcnt 601 
+[recFace]-1311: 61(ms 57 to 69) 85 Name:desk  ncnt 100 callcnt 631
+ loopcnt 701 
+[recFace]-1311: 64(ms 57 to 67) 69 Name:bullet train  ncnt 100 callcnt 721
+ loopcnt 801 
+[recFace]-1311: 59(ms 59 to 69) 69 Name:bullet train  ncnt 100 callcnt 811
+ loopcnt 901 
+[recFace]-1311: 59(ms 57 to 69) 85 Name:desk  ncnt 100 callcnt 901
