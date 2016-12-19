@@ -600,3 +600,15 @@ Mon Dec 19 14:25:51 PST 2016   cnt 10   pushcnt 9   pushskipcnt 1
 [recFace]-1284: 61(ms 57 to 66) 132 Name:refrigerator  ncnt 100 callcnt 1171
  loopcnt 1201 
 [recFace]-1284: 63(ms 57 to 67) 132 Name:refrigerator  ncnt 100 callcnt 1261
+
+Mon Dec 19 14:35:53 PST 2016   cnt 11   pushcnt 10   pushskipcnt 1
+ loopcnt 5101 
+[recFace]-1284: 59(ms 56 to 66) 132 Name:refrigerator  ncnt 100 callcnt 5131
+ loopcnt 5201 
+[recFace]-1284: 65(ms 56 to 69) 132 Name:refrigerator  ncnt 100 callcnt 5221
+ loopcnt 5301 
+[recFace]-1284: 61(ms 56 to 67) 132 Name:refrigerator  ncnt 100 callcnt 5311
+ loopcnt 5401 
+[recFace]-1284: 63(ms 56 to 69) 132 Name:refrigerator  ncnt 100 callcnt 5401
+[recFace]-1284: 61(ms 55 to 69) 132 Name:refrigerator  ncnt 100 callcnt 5491
+ loopcnt 5501 
