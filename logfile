@@ -378,3 +378,15 @@ Exception stack(0xcf871fa0 to 0xcf871fe8)
 ---[ end Kernel panic - not syncing: Fatal exception in interrupt
 
 Mon Dec 19 14:02:53 PST 2016   cnt 4   pushcnt 3   pushskipcnt 1
+
+Mon Dec 19 14:03:56 PST 2016   cnt 5   pushcnt 4   pushskipcnt 1
+[RCS]: /etc/init.d/S00devs
+mknod: /dev/console: File exists
+mknod: /dev/ttyAMA0: File exists
+mknod: /dev/null: File exists
+[RCS]: /etc/init.d/S01udev
+/etc/init.d/S01udev: line 7: udevd: not found
+/etc/init.d/S01udev: line 8: udevadm: not found
+[RCS]: /etc/init.d/S80network
+[RCS]: /etc/init.d/S90hibernate
+hi_gmac_v200 10050000.ethernet eth0: Link is Up - 1Gbps/Full - flow control rx/tx
