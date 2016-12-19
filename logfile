@@ -636,3 +636,15 @@ Mon Dec 19 14:55:57 PST 2016   cnt 13   pushcnt 12   pushskipcnt 1
 [recFace]-1284: 60(ms 57 to 66) 132 Name:refrigerator  ncnt 100 callcnt 14041
  loopcnt 14101 
 [recFace]-1284: 62(ms 56 to 69) 132 Name:refrigerator  ncnt 100 callcnt 14131
+
+Mon Dec 19 15:06:00 PST 2016   cnt 14   pushcnt 13   pushskipcnt 1
+ loopcnt 18001 
+[recFace]-1284: 56(ms 56 to 67) 132 Name:refrigerator  ncnt 100 callcnt 18001
+[recFace]-1284: 62(ms 57 to 69) 145 Name:barbershop  ncnt 100 callcnt 18091
+ loopcnt 18101 
+[recFace]-1284: 61(ms 59 to 69) 145 Name:barbershop  ncnt 100 callcnt 18181
+ loopcnt 18201 
+[recFace]-1284: 61(ms 56 to 66) 132 Name:refrigerator  ncnt 100 callcnt 18271
+ loopcnt 18301 
+[recFace]-1284: 60(ms 56 to 66) 132 Name:refrigerator  ncnt 100 callcnt 18361
+ loopcnt 18401 
