@@ -526,3 +526,15 @@ Mon Dec 19 14:18:36 PST 2016   cnt 3   pushcnt 3   pushskipcnt 0
 [recFace]-1284: 59(ms 58 to 65) 85 Name:desk  ncnt 100 callcnt 901
 [recFace]-1284: 59(ms 58 to 63) 85 Name:desk  ncnt 100 callcnt 991
  loopcnt 1001 
+
+Mon Dec 19 14:19:38 PST 2016   cnt 4   pushcnt 4   pushskipcnt 0
+[recFace]-1284: 63(ms 58 to 71) 85 Name:desk  ncnt 100 callcnt 1081
+ loopcnt 1101 
+[recFace]-1284: 61(ms 57 to 68) 12 Name:dining table  ncnt 100 callcnt 1171
+ loopcnt 1201 
+[recFace]-1284: 61(ms 57 to 65) 12 Name:dining table  ncnt 100 callcnt 1261
+ loopcnt 1301 
+[recFace]-1284: 64(ms 58 to 66) 12 Name:dining table  ncnt 100 callcnt 1351
+ loopcnt 1401 
+[recFace]-1284: 65(ms 59 to 66) 132 Name:refrigerator  ncnt 100 callcnt 1441
+ loopcnt 1501 
