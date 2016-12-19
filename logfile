@@ -133,3 +133,15 @@ Mon Dec 19 13:35:23 PST 2016   cnt 3   pushcnt 3   pushskipcnt 0
 [recFace]-1311: 59(ms 55 to 66) 85 Name:desk  ncnt 100 callcnt 1711
  loopcnt 1801 
 [recFace]-1311: 58(ms 57 to 68) 85 Name:desk  ncnt 100 callcnt 1801
+
+Mon Dec 19 13:36:26 PST 2016   cnt 4   pushcnt 4   pushskipcnt 0
+[recFace]-1311: 59(ms 56 to 67) 85 Name:desk  ncnt 100 callcnt 1891
+ loopcnt 1901 
+[recFace]-1311: 59(ms 56 to 69) 85 Name:desk  ncnt 100 callcnt 1981
+ loopcnt 2001 
+[recFace]-1311: 58(ms 56 to 66) 85 Name:desk  ncnt 100 callcnt 2071
+ loopcnt 2101 
+[recFace]-1311: 59(ms 57 to 69) 132 Name:refrigerator  ncnt 100 callcnt 2161
+ loopcnt 2201 
+[recFace]-1311: 59(ms 55 to 66) 85 Name:desk  ncnt 100 callcnt 2251
+ loopcnt 2301 
