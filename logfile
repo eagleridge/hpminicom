@@ -474,3 +474,15 @@ Mon Dec 19 14:10:33 PST 2016   cnt 7   pushcnt 7   pushskipcnt 0
 [recFace]-1274: 60(ms 56 to 69) 12 Name:dining table  ncnt 100 callcnt 2611
  loopcnt 2701 
 [recFace]-1274: 61(ms 55 to 66) 106 Name:cash machine  ncnt 100 callcnt 2701
+
+Mon Dec 19 14:11:36 PST 2016   cnt 8   pushcnt 8   pushskipcnt 0
+[<c0013ba8>] (handle_IPI) from [<c0008604>] (gic_handle_irq+0x58/0x5c)
+[<c0008604>] (gic_handle_irq) from [<c0012400>] (__irq_svc+0x40/0x54)
+Exception stack(0xcf871fa0 to 0xcf871fe8)
+1fa0: cfde4218 00000000 0001c628 c00196a0 cf870030 c057e460 c057e4c4 c040d834
+1fc0: c05a6911 c05a6911 cf870000 00000000 00000000 cf871fe8 c000f0e4 c000f0e8
+1fe0: 60040013 ffffffff
+[<c0012400>] (__irq_svc) from [<c000f0e8>] (arch_cpu_idle+0x38/0x3c)
+[<c000f0e8>] (arch_cpu_idle) from [<c00504d8>] (cpu_startup_entry+0x108/0x15c)
+[<c00504d8>] (cpu_startup_entry) from [<800086a4>] (0x800086a4)
+---[ end Kernel panic - not syncing: Fatal exception in interrupt
