@@ -280,3 +280,15 @@ Mon Dec 19 13:50:29 PST 2016   cnt 5   pushcnt 5   pushskipcnt 0
  loopcnt 5701 
 [recFace]-1272: 5(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 5761
  loopcnt 5801 
+
+Mon Dec 19 13:51:31 PST 2016   cnt 6   pushcnt 6   pushskipcnt 0
+ loopcnt 6801 
+[recFace]-1272: 4(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 6841
+ loopcnt 6901 
+[recFace]-1272: 4(ms 4 to 10) 85 Name:desk  ncnt 100 callcnt 6931
+ loopcnt 7001 
+[recFace]-1272: 9(ms 4 to 14) 85 Name:desk  ncnt 100 callcnt 7021
+ loopcnt 7101 
+[recFace]-1272: 6(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 7111
+ loopcnt 7201 
+[recFace]-1272: 6(ms 4 to 12) 85 Name:desk  ncnt 100 callcnt 7201
