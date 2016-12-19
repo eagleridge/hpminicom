@@ -304,3 +304,15 @@ Mon Dec 19 13:52:33 PST 2016   cnt 7   pushcnt 7   pushskipcnt 0
  loopcnt 8601 
 [recFace]-1272: 4(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 8641
  loopcnt 8701 
+
+Mon Dec 19 13:53:35 PST 2016   cnt 8   pushcnt 8   pushskipcnt 0
+Face recognition thread terminated
+/mnt/test # 
+/mnt/test # 
+/mnt/test # 
+/mnt/test # /mnt/test # ./test 
+=============SAMPLE_COMM_VI_SetMipiAttr enWDRMode: 0
+linear mode
+IMX226 4K2K_8CH_12BIT_30FPS init succuss!
+============vi_vpss mode: online
+u32Width:720, u32Square:1
