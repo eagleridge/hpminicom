@@ -402,3 +402,15 @@ Mon Dec 19 14:04:20 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
  loopcnt 3 
    vpa dc516f80 dc57af80 dc57af80 992fff80 99363f80 99363f80  wh  640  640  strd  640  640  640  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  ext
    vpa d6002400 d61f8c00 d61f8c00 935e5400 937dbc00 937dbc00  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+Mon Dec 19 14:05:22 PST 2016   cnt 2   pushcnt 2   pushskipcnt 0
+[recFace]-1274: 62(ms 58 to 67) 132 Name:refrigerator  ncnt 100 callcnt 91
+ loopcnt 101 
+[recFace]-1274: 64(ms 56 to 67) 132 Name:refrigerator  ncnt 100 callcnt 181
+ loopcnt 201 
+[recFace]-1274: 59(ms 57 to 68) 106 Name:cash machine  ncnt 100 callcnt 271
+ loopcnt 301 
+[recFace]-1274: 61(ms 56 to 67) 12 Name:dining table  ncnt 100 callcnt 361
+ loopcnt 401 
+[recFace]-1274: 60(ms 56 to 69) 12 Name:dining table  ncnt 100 callcnt 451
+ loopcnt 501 
