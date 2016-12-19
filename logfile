@@ -490,3 +490,15 @@ Exception stack(0xcf871fa0 to 0xcf871fe8)
 Mon Dec 19 14:12:38 PST 2016   cnt 9   pushcnt 8   pushskipcnt 1
 
 Mon Dec 19 14:13:40 PST 2016   cnt 10   pushcnt 8   pushskipcnt 2
+
+Mon Dec 19 14:16:31 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
+ 1324  enc=true  vo=true
+ 1328  force enc off
+ 1330  enc=false  vo=true
+
+ loopcnt 1 
+[recFace]-1284: 54(ms 54 to 54) 85 Name:desk  ncnt 1 callcnt 1
+ loopcnt 2 
+ loopcnt 3 
+[recFace]-1284: 62(ms 58 to 69) 85 Name:desk  ncnt 100 callcnt 91
+ loopcnt 101 
