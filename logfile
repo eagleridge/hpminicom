@@ -352,3 +352,15 @@ Mon Dec 19 13:59:47 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
 
 [recFace]-1274: 57(ms 51 to 66) 64 Name:moving van  ncnt 100 callcnt 91
  loopcnt 101 
+
+Mon Dec 19 14:00:49 PST 2016   cnt 2   pushcnt 2   pushskipcnt 0
+ loopcnt 301 
+[recFace]-1274: 55(ms 49 to 63) 132 Name:refrigerator  ncnt 100 callcnt 361
+ loopcnt 401 
+[recFace]-1274: 59(ms 49 to 62) 58 Name:pay-phone  ncnt 100 callcnt 451
+ loopcnt 501 
+[recFace]-1274: 59(ms 49 to 63) 145 Name:barbershop  ncnt 100 callcnt 541
+ loopcnt 601 
+[recFace]-1274: 55(ms 49 to 62) 145 Name:barbershop  ncnt 100 callcnt 631
+ loopcnt 701 
+[recFace]-1274: 55(ms 49 to 62) 145 Name:barbershop  ncnt 100 callcnt 721
