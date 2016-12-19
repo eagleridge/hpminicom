@@ -1,0 +1,100 @@
+Mon Dec 19 13:32:47 PST 2016
+[debug]: {source/utils/cmdshell.c:166}cmdstr:himm
+0x12040088: 0x00000000 --> 0x00000001 
+[END]
+*** Board tools : ver0.0.1_20121120 *** 
+[debug]: {source/utils/cmdshell.c:166}cmdstr:himm
+0x12010040: 0x00000011 --> 0x00000011 
+[END]
+*** Board tools : ver0.0.1_20121120 *** 
+[debug]: {source/utils/cmdshell.c:166}cmdstr:himm
+0x12040008: 0x00000001 --> 0x00000001 
+[END]
+*** Board tools : ver0.0.1_20121120 *** 
+[debug]: {source/utils/cmdshell.c:166}cmdstr:himm
+0x1204000C: 0x00000001 --> 0x00000001 
+[END]
+==== Your input Sensor type is imx226 ====
+~ # 
+~ # 
+~ # 
+~ # cd /mnt/test~ # cd /mnt/test/
+/mnt/test # ls -l
+total 0
+/mnt/test # ls -l
+total 1388
+-rwxrwxr-x    1 1001     1001       1418932 Dec 19  2016 test
+/mnt/test # 
+/mnt/test # 
+/mnt/test # 
+/mnt/test # ls -l
+total 1732
+drwxr-xr-x    2 1001     1001          4096 Dec  8  2016 FC_weights
+-rwxrwxr-x    1 1001     1001           326 Dec 16  2016 Makefile
+-rwxr-xr-x    1 1001     1001            89 Dec 19  2016 bb2
+drwxrwxr-x    2 1001     1001          4096 Nov 23  2016 cnn_model
+-rwxr-xr-x    1 1001     1001          3844 Dec  7  2016 crop.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file0.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file1.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file2.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file3.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file4.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file5.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file6.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file7.yuv
+-rwxr-xr-x    1 1001     1001           900 Dec  8  2016 file8.yuv
+-rwxrwxr-x    1 1001     1001        270014 Dec  2  2016 hiFaceNet_phase1.bin
+drwxr-xr-x    2 1001     1001          4096 Nov  3  2016 letters
+drwxr-xr-x    2 1001     1001          4096 Nov  4  2016 letters32
+-rwxrwxr-x    1 1001     1001          2924 Nov  9  2016 main.cpp
+-rw-rw-r--    1 1001     1001          3756 Dec 19  2016 main.o
+-rwxr-xr-x    1 1001     1001          2015 Dec 12  2016 namelist.txt
+-rwxrwxr-x    1 1001     1001       1418932 Dec 19  2016 test
+-rwxrwxr-x    1 1001     1001          4096 Dec  7  2016 triumphal.yuv
+/mnt/test # 
+/mnt/test # 
+/mnt/test # 
+/mnt/test # ./test/mnt/test # ./test 
+=============SAMPLE_COMM_VI_SetMipiAttr enWDRMode: 0
+linear mode
+IMX226 4K2K_8CH_12BIT_30FPS init succuss!
+============vi_vpss mode: online
+u32Width:720, u32Square:1
+Demo is so far so good 
+weight stride: 0.0000 
+encoding thread waiting for termination
+Face recognition started
+
+ 1346 SAMPLE_IVE_ViToVo
+ 1347  enc=true  vo=true
+ 1351  force enc off
+ 1353  enc=false  vo=true
+
+ loopcnt 1 
+   vpa db909d80 db96dd80 db96dd80 986f2d80 98756d80 98756d80  wh  640  640  strd  640  640  640  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  ext
+   vpa d3c00900 d3df7100 d3df7100 911e3900 913da100 913da100  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+[recFace]-1311: 67(ms 67 to 67) 85 Name:desk  ncnt 1 callcnt 1
+ loopcnt 2 
+   vpa db303480 db367480 db367480 980ec480 98150480 98150480  wh  640  640  strd  640  640  640  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  ext
+   vpa dc213b00 dc40a300 dc40a300 98ffcb00 991f3300 991f3300  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+ loopcnt 3 
+   vpa dcb1d880 dcb81880 dcb81880 99906880 9996a880 9996a880  wh  640  640  strd  640  640  640  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  ext
+   vpa db606900 db7fd100 db7fd100 983ef900 985e6100 985e6100  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+[recFace]-1311: 62(ms 57 to 67) 85 Name:desk  ncnt 100 callcnt 91
+ loopcnt 101 
+[recFace]-1311: 65(ms 57 to 67) 85 Name:desk  ncnt 100 callcnt 181
+ loopcnt 201 
+[recFace]-1311: 60(ms 56 to 64) 85 Name:desk  ncnt 100 callcnt 271
+ loopcnt 301 
+[recFace]-1311: 60(ms 57 to 69) 85 Name:desk  ncnt 100 callcnt 361
+ loopcnt 401 
+[recFace]-1311: 57(ms 56 to 67) 85 Name:desk  ncnt 100 callcnt 451
+ loopcnt 501 
+[recFace]-1311: 59(ms 57 to 68) 69 Name:bullet train  ncnt 100 callcnt 541
+ loopcnt 601 
+[recFace]-1311: 61(ms 57 to 69) 85 Name:desk  ncnt 100 callcnt 631
+ loopcnt 701 
+[recFace]-1311: 64(ms 57 to 67) 69 Name:bullet train  ncnt 100 callcnt 721
