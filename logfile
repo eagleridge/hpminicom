@@ -340,3 +340,15 @@ Mon Dec 19 13:55:39 PST 2016   cnt 10   pushcnt 10   pushskipcnt 0
 [recFace]-1272: 5(ms 3 to 11) 85 Name:desk  ncnt 100 callcnt 1531
  loopcnt 1601 
 [recFace]-1272: 9(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 1621
+
+Mon Dec 19 13:59:47 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
+ loopcnt 2 
+   vpa dcb1d880 dcb81880 dcb81880 99906880 9996a880 9996a880  wh  640  640  strd  640  640  640  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  ext
+   vpa dc81a400 dca10c00 dca10c00 99603400 997f9c00 997f9c00  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+ loopcnt 3 
+   vpa dbf10680 dbf74680 dbf74680 98cf9680 98d5d680 98d5d680  wh  640  640  strd  640  640  640  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  ext
+   vpa d4801200 d49f7a00 d49f7a00 91de4200 91fdaa00 91fdaa00  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+[recFace]-1274: 57(ms 51 to 66) 64 Name:moving van  ncnt 100 callcnt 91
+ loopcnt 101 
