@@ -660,3 +660,15 @@ Mon Dec 19 15:16:02 PST 2016   cnt 15   pushcnt 14   pushskipcnt 1
  loopcnt 22601 
 [recFace]-1284: 65(ms 58 to 71) 69 Name:bullet train  ncnt 100 callcnt 22681
  loopcnt 22701 
+
+Mon Dec 19 15:26:05 PST 2016   cnt 16   pushcnt 15   pushskipcnt 1
+ loopcnt 26601 
+[recFace]-1284: 59(ms 57 to 67) 85 Name:desk  ncnt 100 callcnt 26641
+ loopcnt 26701 
+[recFace]-1284: 62(ms 56 to 69) 85 Name:desk  ncnt 100 callcnt 26731
+ loopcnt 26801 
+[recFace]-1284: 63(ms 57 to 66) 85 Name:desk  ncnt 100 callcnt 26821
+ loopcnt 26901 
+[recFace]-1284: 59(ms 57 to 71) 85 Name:desk  ncnt 100 callcnt 26911
+ loopcnt 27001 
+[recFace]-1284: 59(ms 57 to 71) 69 Name:bullet train  ncnt 100 callcnt 27001
