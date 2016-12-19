@@ -232,3 +232,15 @@ Mon Dec 19 13:46:20 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
    vpa dc81a400 dca10c00 dca10c00 99603400 997f9c00 997f9c00  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
 
 [recFace]-1272: 5(ms 4 to 17) 85 Name:desk  ncnt 100 callcnt 91
+
+Mon Dec 19 13:47:22 PST 2016   cnt 2   pushcnt 2   pushskipcnt 0
+ loopcnt 1101 
+[recFace]-1272: 6(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 1171
+ loopcnt 1201 
+[recFace]-1272: 5(ms 4 to 12) 85 Name:desk  ncnt 100 callcnt 1261
+ loopcnt 1301 
+[recFace]-1272: 5(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 1351
+ loopcnt 1401 
+[recFace]-1272: 9(ms 3 to 12) 85 Name:desk  ncnt 100 callcnt 1441
+ loopcnt 1501 
+[recFace]-1272: 6(ms 4 to 9) 85 Name:desk  ncnt 100 callcnt 1531
