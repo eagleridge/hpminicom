@@ -699,3 +699,15 @@ Exception stack(0xcf871fa0 to 0xcf871fe8)
 
 test bk7
 Mon Dec 19 15:54:50 PST 2016
+
+Mon Dec 19 15:56:47 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
+ loopcnt 35 
+    printf cost 15 us
+ loopcnt 36 
+    printf cost 16 us
+ loopcnt 37 
+    printf cost 18 us
+ loopcnt 38 
+    printf cost 16 us
+ loopcnt 39 
+    printf cost 16 us
