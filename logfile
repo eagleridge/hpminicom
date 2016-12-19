@@ -488,3 +488,5 @@ Exception stack(0xcf871fa0 to 0xcf871fe8)
 ---[ end Kernel panic - not syncing: Fatal exception in interrupt
 
 Mon Dec 19 14:12:38 PST 2016   cnt 9   pushcnt 8   pushskipcnt 1
+
+Mon Dec 19 14:13:40 PST 2016   cnt 10   pushcnt 8   pushskipcnt 2
