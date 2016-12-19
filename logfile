@@ -564,3 +564,15 @@ rmmod: can't unload 'hi3519_h264e': unknown symbol in module, or unknown paramet
 rmmod: can't unload 'hi3519_h265e': unknown symbol in module, or unknown parameter
 rmmod: can't unload 'hi3519_chnl': unknown symbol in module, or unknown parameter
 rmm
+
+Mon Dec 19 14:23:47 PST 2016   cnt 8   pushcnt 7   pushskipcnt 1
+[recFace]-1284: 55(ms 55 to 55) 85 Name:desk  ncnt 1 callcnt 1
+ loopcnt 2 
+ loopcnt 3 
+[recFace]-1284: 60(ms 56 to 73) 85 Name:desk  ncnt 100 callcnt 91
+ loopcnt 101 
+[recFace]-1284: 61(ms 58 to 69) 85 Name:desk  ncnt 100 callcnt 181
+ loopcnt 201 
+[recFace]-1284: 57(ms 56 to 69) 85 Name:desk  ncnt 100 callcnt 271
+ loopcnt 301 
+[recFace]-1284: 60(ms 57 to 69) 85 Name:desk  ncnt 100 callcnt 361
