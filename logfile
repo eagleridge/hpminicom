@@ -145,3 +145,15 @@ Mon Dec 19 13:36:26 PST 2016   cnt 4   pushcnt 4   pushskipcnt 0
  loopcnt 2201 
 [recFace]-1311: 59(ms 55 to 66) 85 Name:desk  ncnt 100 callcnt 2251
  loopcnt 2301 
+
+Mon Dec 19 13:37:28 PST 2016   cnt 5   pushcnt 5   pushskipcnt 0
+ loopcnt 2301 
+[recFace]-1311: 62(ms 57 to 69) 145 Name:barbershop  ncnt 100 callcnt 2341
+ loopcnt 2401 
+[recFace]-1311: 61(ms 57 to 70) 132 Name:refrigerator  ncnt 100 callcnt 2431
+ loopcnt 2501 
+[recFace]-1311: 59(ms 55 to 65) 145 Name:barbershop  ncnt 100 callcnt 2521
+ loopcnt 2601 
+[recFace]-1311: 60(ms 56 to 69) 85 Name:desk  ncnt 100 callcnt 2611
+ loopcnt 2701 
+[recFace]-1311: 57(ms 57 to 67) 145 Name:barbershop  ncnt 100 callcnt 2701
