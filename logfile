@@ -648,3 +648,15 @@ Mon Dec 19 15:06:00 PST 2016   cnt 14   pushcnt 13   pushskipcnt 1
  loopcnt 18301 
 [recFace]-1284: 60(ms 56 to 66) 132 Name:refrigerator  ncnt 100 callcnt 18361
  loopcnt 18401 
+
+Mon Dec 19 15:16:02 PST 2016   cnt 15   pushcnt 14   pushskipcnt 1
+ loopcnt 22301 
+[recFace]-1284: 60(ms 58 to 71) 69 Name:bullet train  ncnt 100 callcnt 22321
+ loopcnt 22401 
+[recFace]-1284: 59(ms 58 to 70) 69 Name:bullet train  ncnt 100 callcnt 22411
+ loopcnt 22501 
+[recFace]-1284: 60(ms 57 to 67) 132 Name:refrigerator  ncnt 100 callcnt 22501
+[recFace]-1284: 61(ms 55 to 67) 85 Name:desk  ncnt 100 callcnt 22591
+ loopcnt 22601 
+[recFace]-1284: 65(ms 58 to 71) 69 Name:bullet train  ncnt 100 callcnt 22681
+ loopcnt 22701 
