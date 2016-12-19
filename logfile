@@ -316,3 +316,15 @@ linear mode
 IMX226 4K2K_8CH_12BIT_30FPS init succuss!
 ============vi_vpss mode: online
 u32Width:720, u32Square:1
+
+Mon Dec 19 13:54:37 PST 2016   cnt 9   pushcnt 9   pushskipcnt 0
+   vpa dc213b00 dc40a300 dc40a300 98ffcb00 991f3300 991f3300  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+ loopcnt 3 
+   vpa dcb1d880 dcb81880 dcb81880 99906880 9996a880 9996a880  wh  640  640  strd  640  640  640  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  ext
+   vpa dc81a400 dca10c00 dca10c00 99603400 997f9c00 997f9c00  wh 1920 1072  strd 1920 1920 1920  hdr 00000000 00000000 00000000  00000000 00000000 00000000     0    0    0  base
+
+[recFace]-1272: 5(ms 4 to 17) 85 Name:desk  ncnt 100 callcnt 91
+ loopcnt 101 
+[recFace]-1272: 9(ms 4 to 12) 85 Name:desk  ncnt 100 callcnt 181
+ loopcnt 201 
