@@ -795,3 +795,15 @@ Mon Dec 19 16:04:03 PST 2016   cnt 8   pushcnt 8   pushskipcnt 0
  loopcnt 3101 
     printf cost 20 us
 [recFace]-1284: 59(ms 56 to 67) 85 Name:desk  ncnt 100 callcnt 3151
+
+Mon Dec 19 16:05:05 PST 2016   cnt 9   pushcnt 9   pushskipcnt 0
+[recFace]-1284: 63(ms 56 to 69) 85 Name:desk  ncnt 100 callcnt 3331
+ loopcnt 3401 
+    printf cost 20 us
+[recFace]-1284: 59(ms 56 to 66) 85 Name:desk  ncnt 100 callcnt 3421
+ loopcnt 3501 
+    printf cost 22 us
+[recFace]-1284: 61(ms 57 to 66) 132 Name:refrigerator  ncnt 100 callcnt 3511
+ loopcnt 3601 
+    printf cost 21 us
+[recFace]-1284: 59(ms 56 to 68) 132 Name:refrigerator  ncnt 100 callcnt 3601
