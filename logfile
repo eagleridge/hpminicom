@@ -879,3 +879,15 @@ Mon Dec 19 16:56:19 PST 2016   cnt 15   pushcnt 15   pushskipcnt 0
 [recFace]-1284: 58(ms 56 to 65) 85 Name:desk  ncnt 100 callcnt 25471
  loopcnt 25501 
     printf cost 60 us
+
+Mon Dec 19 17:06:21 PST 2016   cnt 16   pushcnt 16   pushskipcnt 0
+[recFace]-1284: 63(ms 56 to 69) 145 Name:barbershop  ncnt 100 callcnt 29521
+ loopcnt 29601 
+    printf cost 24 us
+[recFace]-1284: 63(ms 57 to 66) 145 Name:barbershop  ncnt 100 callcnt 29611
+ loopcnt 29701 
+    printf cost 23 us
+[recFace]-1284: 59(ms 57 to 69) 145 Name:barbershop  ncnt 100 callcnt 29701
+[recFace]-1284: 64(ms 56 to 65) 145 Name:barbershop  ncnt 100 callcnt 29791
+ loopcnt 29801 
+    printf cost 20 us
