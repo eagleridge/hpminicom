@@ -39,6 +39,7 @@ while [ $cnt -lt $cntmax ]; do
 
     echo
     echo '======================================'
+        echo $dt
         echo cnt $cnt push pushcnt $pushcnt pushskipcnt $pushskipcnt
         echo 
     if [ $cnt -lt 10 ]; then
