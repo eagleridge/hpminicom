@@ -891,3 +891,15 @@ Mon Dec 19 17:06:21 PST 2016   cnt 16   pushcnt 16   pushskipcnt 0
 [recFace]-1284: 64(ms 56 to 65) 145 Name:barbershop  ncnt 100 callcnt 29791
  loopcnt 29801 
     printf cost 20 us
+
+Mon Dec 19 17:16:23 PST 2016   cnt 17   pushcnt 17   pushskipcnt 0
+[recFace]-1284: 63(ms 57 to 66) 132 Name:refrigerator  ncnt 100 callcnt 33751
+ loopcnt 33801 
+    printf cost 82 us
+[recFace]-1284: 61(ms 56 to 67) 132 Name:refrigerator  ncnt 100 callcnt 33841
+ loopcnt 33901 
+    printf cost 21 us
+[recFace]-1284: 62(ms 56 to 67) 132 Name:refrigerator  ncnt 100 callcnt 33931
+ loopcnt 34001 
+    printf cost 24 us
+[recFace]-1284: 59(ms 57 to 67) 132 Name:refrigerator  ncnt 100 callcnt 34021
