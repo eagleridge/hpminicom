@@ -939,3 +939,15 @@ Mon Dec 19 17:46:30 PST 2016   cnt 20   pushcnt 20   pushskipcnt 0
 [recFace]-1284: 64(ms 57 to 73) 132 Name:refrigerator  ncnt 100 callcnt 46891
  loopcnt 46901 
     printf cost 17 us
+
+Mon Dec 19 17:56:32 PST 2016   cnt 21   pushcnt 21   pushskipcnt 0
+[<c0013ba8>] (handle_IPI) from [<c0008604>] (gic_handle_irq+0x58/0x5c)
+[<c0008604>] (gic_handle_irq) from [<c0012400>] (__irq_svc+0x40/0x54)
+Exception stack(0xcf871fa0 to 0xcf871fe8)
+1fa0: cfde4218 00000000 001cddb6 c00196a0 cf870030 c057e460 c057e4c4 c040d834
+1fc0: c05a6911 c05a6911 cf870000 00000000 00000000 cf871fe8 c000f0e4 c000f0e8
+1fe0: 60000013 ffffffff
+[<c0012400>] (__irq_svc) from [<c000f0e8>] (arch_cpu_idle+0x38/0x3c)
+[<c000f0e8>] (arch_cpu_idle) from [<c00504d8>] (cpu_startup_entry+0x108/0x15c)
+[<c00504d8>] (cpu_startup_entry) from [<800086a4>] (0x800086a4)
+---[ end Kernel panic - not syncing: Fatal exception in interrupt
