@@ -771,3 +771,15 @@ Mon Dec 19 16:01:57 PST 2016   cnt 6   pushcnt 6   pushskipcnt 0
  loopcnt 2201 
     printf cost 23 us
 [recFace]-1284: 62(ms 58 to 69) 132 Name:refrigerator  ncnt 100 callcnt 2251
+
+Mon Dec 19 16:03:00 PST 2016   cnt 7   pushcnt 7   pushskipcnt 0
+[recFace]-1284: 63(ms 57 to 66) 132 Name:refrigerator  ncnt 100 callcnt 2431
+ loopcnt 2501 
+    printf cost 23 us
+[recFace]-1284: 66(ms 55 to 68) 132 Name:refrigerator  ncnt 100 callcnt 2521
+ loopcnt 2601 
+    printf cost 24 us
+[recFace]-1284: 60(ms 56 to 66) 132 Name:refrigerator  ncnt 100 callcnt 2611
+ loopcnt 2701 
+    printf cost 22 us
+[recFace]-1284: 59(ms 57 to 66) 132 Name:refrigerator  ncnt 100 callcnt 2701
