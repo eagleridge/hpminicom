@@ -1691,3 +1691,15 @@ Thu Dec 22 15:42:20 PST 2016   cnt 141   pushcnt 141   pushskipcnt 0
 [recFace]-1287: 4(ms 2 to 12) Cidx:187 Name:beaker  cnncallcnt:735901 framecnt:2366475  states: 735901 735901 735900
 [recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:735901 framecnt:2366476  states: 735901 735901 735900
 [recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:735901 framecnt:2366477  states: 735901 735901 735900
+
+Thu Dec 22 15:52:22 PST 2016   cnt 142   pushcnt 142   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:741301 framecnt:2383315  states: 741301 741301 741300
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:741301 framecnt:2383316  states: 741301 741301 741300
+[recFace]-1287: 5(ms 2 to 11) Cidx:54 Name:remote control  cnncallcnt:741401 framecnt:2383624  states: 741401 741401 741400
+[recFace]-1287: 2(ms 2 to 2) Cidx:54 Name:remote control  cnncallcnt:741401 framecnt:2383625  states: 741401 741401 741400
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:741401 framecnt:2383626  states: 741401 741401 741400
+[recFace]-1287: 4(ms 2 to 12) Cidx:54 Name:remote control  cnncallcnt:741501 framecnt:2383931  states: 741501 741501 741500
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:741501 framecnt:2383932  states: 741501 741501 741500
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:741501 framecnt:2383933  states: 741501 741501 741500
+[recFace]-1287: 4(ms 2 to 13) Cidx:54 Name:remote control  cnncallcnt:741601 framecnt:2384243  states: 741601 741601 741600
+[recFace]-1287: 4(ms 4 to 4) Cidx:54 Name:remote control  cnncallcnt:741601 framecnt:2384244  states: 741601 741601 741600
