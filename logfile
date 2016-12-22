@@ -1307,3 +1307,15 @@ Thu Dec 22 10:20:59 PST 2016   cnt 109   pushcnt 109   pushskipcnt 0
 [recFace]-1287: 4(ms 2 to 12) Cidx:91 Name:iPod  cnncallcnt:552401 framecnt:1793657  states: 552401 552401 552400
 [recFace]-1287: 2(ms 2 to 2) Cidx:91 Name:iPod  cnncallcnt:552401 framecnt:1793658  states: 552401 552401 552400
 [recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:552401 framecnt:1793659  states: 552401 552401 552400
+
+Thu Dec 22 10:31:03 PST 2016   cnt 110   pushcnt 110   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:557901 framecnt:1810807  states: 557901 557901 557900
+[recFace]-1287: 3(ms 2 to 12) Cidx:91 Name:iPod  cnncallcnt:558001 framecnt:1811120  states: 558001 558001 558000
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:558001 framecnt:1811121  states: 558001 558001 558000
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:558001 framecnt:1811122  states: 558001 558001 558000
+[recFace]-1287: 3(ms 2 to 11) Cidx:91 Name:iPod  cnncallcnt:558101 framecnt:1811432  states: 558101 558101 558100
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:558101 framecnt:1811433  states: 558101 558101 558100
+[recFace]-1287: 4(ms 4 to 4) Cidx:91 Name:iPod  cnncallcnt:558101 framecnt:1811434  states: 558101 558101 558100
+[recFace]-1287: 5(ms 2 to 12) Cidx:91 Name:iPod  cnncallcnt:558201 framecnt:1811748  states: 558201 558201 558200
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:558201 framecnt:1811749  states: 558201 558201 558200
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:558201 framecnt:1811750  states: 558201 558201 558200
