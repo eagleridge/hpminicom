@@ -1355,3 +1355,15 @@ Thu Dec 22 11:01:10 PST 2016   cnt 113   pushcnt 113   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 11) Cidx:179 Name:bathtub  cnncallcnt:575401 framecnt:1865394  states: 575401 575401 575400
 [recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:575401 framecnt:1865395  states: 575401 575401 575400
 [recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:575401 framecnt:1865396  states: 575401 575401 575400
+
+Thu Dec 22 11:11:12 PST 2016   cnt 114   pushcnt 114   pushskipcnt 0
+[recFace]-1287: 3(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:580901 framecnt:1882516  states: 580901 580901 580900
+[recFace]-1287: 2(ms 2 to 2) Cidx:85 Name:desk  cnncallcnt:580901 framecnt:1882517  states: 580901 580901 580900
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:580901 framecnt:1882518  states: 580901 580901 580900
+[recFace]-1287: 5(ms 5 to 5) Cidx:85 Name:desk  cnncallcnt:580901 framecnt:1882519  states: 580901 580901 580901
+[recFace]-1287: 5(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:581001 framecnt:1882822  states: 581001 581001 581000
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:581001 framecnt:1882823  states: 581001 581001 581000
+[recFace]-1287: 5(ms 5 to 5) Cidx:85 Name:desk  cnncallcnt:581001 framecnt:1882824  states: 581001 581001 581000
+[recFace]-1287: 3(ms 2 to 12) Cidx:116 Name:dugong  cnncallcnt:581101 framecnt:1883136  states: 581101 581101 581100
+[recFace]-1287: 3(ms 3 to 3) Cidx:116 Name:dugong  cnncallcnt:581101 framecnt:1883137  states: 581101 581101 581100
+[recFace]-1287: 3(ms 3 to 3) Cidx:116 Name:dugong  cnncallcnt:581101 framecnt:1883138  states: 581101 581101 581100
