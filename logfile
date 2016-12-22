@@ -1475,3 +1475,15 @@ Thu Dec 22 12:41:34 PST 2016   cnt 123   pushcnt 123   pushskipcnt 0
 [recFace]-1287: 4(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:632701 framecnt:2044113  states: 632701 632701 632700
 [recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632701 framecnt:2044114  states: 632701 632701 632700
 [recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632701 framecnt:2044115  states: 632701 632701 632700
+
+Thu Dec 22 12:51:36 PST 2016   cnt 124   pushcnt 124   pushskipcnt 0
+[recFace]-1287: 4(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:638301 framecnt:2061627  states: 638301 638301 638300
+[recFace]-1287: 2(ms 2 to 2) Cidx:85 Name:desk  cnncallcnt:638301 framecnt:2061628  states: 638301 638301 638300
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:638301 framecnt:2061629  states: 638301 638301 638300
+[recFace]-1287: 3(ms 2 to 12) Cidx:98 Name:pill bottle  cnncallcnt:638401 framecnt:2061934  states: 638401 638401 638400
+[recFace]-1287: 3(ms 3 to 3) Cidx:98 Name:pill bottle  cnncallcnt:638401 framecnt:2061935  states: 638401 638401 638400
+[recFace]-1287: 3(ms 3 to 3) Cidx:98 Name:pill bottle  cnncallcnt:638401 framecnt:2061936  states: 638401 638401 638400
+[recFace]-1287: 3(ms 2 to 11) Cidx:106 Name:cash machine  cnncallcnt:638501 framecnt:2062242  states: 638501 638501 638500
+[recFace]-1287: 2(ms 2 to 2) Cidx:106 Name:cash machine  cnncallcnt:638501 framecnt:2062243  states: 638501 638501 638500
+[recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:638501 framecnt:2062244  states: 638501 638501 638500
+[recFace]-1287: 6(ms 6 to 6) Cidx:106 Name:cash machine  cnncallcnt:638501 framecnt:2062245  states: 638501 638501 638500
