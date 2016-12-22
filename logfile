@@ -1331,3 +1331,15 @@ Thu Dec 22 10:41:05 PST 2016   cnt 111   pushcnt 111   pushskipcnt 0
 [recFace]-1287: 3(ms 3 to 3) Cidx:126 Name:wooden spoon  cnncallcnt:563801 framecnt:1829204  states: 563801 563801 563800
 [recFace]-1287: 3(ms 2 to 13) Cidx:176 Name:pole  cnncallcnt:563901 framecnt:1829510  states: 563901 563901 563900
 [recFace]-1287: 3(ms 3 to 3) Cidx:176 Name:pole  cnncallcnt:563901 framecnt:1829511  states: 563901 563901 563900
+
+Thu Dec 22 10:51:08 PST 2016   cnt 112   pushcnt 112   pushskipcnt 0
+[recFace]-1287: 3(ms 2 to 13) Cidx:179 Name:bathtub  cnncallcnt:569501 framecnt:1846989  states: 569501 569501 569500
+[recFace]-1287: 2(ms 2 to 2) Cidx:179 Name:bathtub  cnncallcnt:569501 framecnt:1846990  states: 569501 569501 569500
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:569501 framecnt:1846991  states: 569501 569501 569500
+[recFace]-1287: 6(ms 2 to 12) Cidx:179 Name:bathtub  cnncallcnt:569601 framecnt:1847300  states: 569601 569601 569600
+[recFace]-1287: 2(ms 2 to 2) Cidx:179 Name:bathtub  cnncallcnt:569601 framecnt:1847301  states: 569601 569601 569600
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:569601 framecnt:1847302  states: 569601 569601 569600
+[recFace]-1287: 5(ms 5 to 5) Cidx:179 Name:bathtub  cnncallcnt:569601 framecnt:1847303  states: 569601 569601 569601
+[recFace]-1287: 4(ms 2 to 12) Cidx:179 Name:bathtub  cnncallcnt:569701 framecnt:1847609  states: 569701 569701 569700
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:569701 framecnt:1847610  states: 569701 569701 569700
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:569701 framecnt:1847611  states: 569701 569701 569700
