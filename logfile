@@ -1619,3 +1619,15 @@ Thu Dec 22 14:42:05 PST 2016   cnt 135   pushcnt 135   pushskipcnt 0
 [recFace]-1287: 5(ms 2 to 12) Cidx:179 Name:bathtub  cnncallcnt:701401 framecnt:2258886  states: 701401 701401 701400
 [recFace]-1287: 2(ms 2 to 2) Cidx:179 Name:bathtub  cnncallcnt:701401 framecnt:2258887  states: 701401 701401 701400
 [recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:701401 framecnt:2258888  states: 701401 701401 701400
+
+Thu Dec 22 14:52:07 PST 2016   cnt 136   pushcnt 136   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:706901 framecnt:2276009  states: 706901 706901 706900
+[recFace]-1287: 4(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:707001 framecnt:2276315  states: 707001 707001 707000
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:707001 framecnt:2276316  states: 707001 707001 707000
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:707001 framecnt:2276317  states: 707001 707001 707000
+[recFace]-1287: 4(ms 2 to 7) Cidx:85 Name:desk  cnncallcnt:707101 framecnt:2276619  states: 707101 707101 707100
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:707101 framecnt:2276620  states: 707101 707101 707100
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:707101 framecnt:2276621  states: 707101 707101 707100
+[recFace]-1287: 5(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:707201 framecnt:2276930  states: 707201 707201 707200
+[recFace]-1287: 11(ms 11 to 11) Cidx:85 Name:desk  cnncallcnt:707201 framecnt:2276931  states: 707201 707201 707200
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:707201 framecnt:2276932  states: 707201 707201 707200
