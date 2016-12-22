@@ -1295,3 +1295,15 @@ Thu Dec 22 10:10:57 PST 2016   cnt 108   pushcnt 108   pushskipcnt 0
 [recFace]-1287: 2(ms 2 to 2) Cidx:116 Name:dugong  cnncallcnt:546701 framecnt:1775869  states: 546701 546701 546700
 [recFace]-1287: 3(ms 3 to 3) Cidx:116 Name:dugong  cnncallcnt:546701 framecnt:1775870  states: 546701 546701 546700
 [recFace]-1287: 3(ms 3 to 3) Cidx:116 Name:dugong  cnncallcnt:546701 framecnt:1775871  states: 546701 546701 546700
+
+Thu Dec 22 10:20:59 PST 2016   cnt 109   pushcnt 109   pushskipcnt 0
+[recFace]-1287: 6(ms 6 to 6) Cidx:91 Name:iPod  cnncallcnt:552101 framecnt:1792720  states: 552101 552101 552100
+[recFace]-1287: 5(ms 2 to 16) Cidx:91 Name:iPod  cnncallcnt:552201 framecnt:1793030  states: 552201 552201 552200
+[recFace]-1287: 2(ms 2 to 2) Cidx:91 Name:iPod  cnncallcnt:552201 framecnt:1793031  states: 552201 552201 552200
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:552201 framecnt:1793032  states: 552201 552201 552200
+[recFace]-1287: 4(ms 2 to 12) Cidx:91 Name:iPod  cnncallcnt:552301 framecnt:1793347  states: 552301 552301 552300
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:552301 framecnt:1793348  states: 552301 552301 552300
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:552301 framecnt:1793349  states: 552301 552301 552300
+[recFace]-1287: 4(ms 2 to 12) Cidx:91 Name:iPod  cnncallcnt:552401 framecnt:1793657  states: 552401 552401 552400
+[recFace]-1287: 2(ms 2 to 2) Cidx:91 Name:iPod  cnncallcnt:552401 framecnt:1793658  states: 552401 552401 552400
+[recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:552401 framecnt:1793659  states: 552401 552401 552400
