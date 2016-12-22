@@ -1631,3 +1631,15 @@ Thu Dec 22 14:52:07 PST 2016   cnt 136   pushcnt 136   pushskipcnt 0
 [recFace]-1287: 5(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:707201 framecnt:2276930  states: 707201 707201 707200
 [recFace]-1287: 11(ms 11 to 11) Cidx:85 Name:desk  cnncallcnt:707201 framecnt:2276931  states: 707201 707201 707200
 [recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:707201 framecnt:2276932  states: 707201 707201 707200
+
+Thu Dec 22 15:02:10 PST 2016   cnt 137   pushcnt 137   pushskipcnt 0
+[recFace]-1287: 4(ms 2 to 12) Cidx:98 Name:pill bottle  cnncallcnt:712701 framecnt:2294129  states: 712701 712701 712700
+[recFace]-1287: 19(ms 19 to 19) Cidx:98 Name:pill bottle  cnncallcnt:712701 framecnt:2294130  states: 712701 712701 712700
+[recFace]-1287: 3(ms 3 to 3) Cidx:98 Name:pill bottle  cnncallcnt:712701 framecnt:2294131  states: 712701 712701 712700
+[recFace]-1287: 6(ms 6 to 6) Cidx:98 Name:pill bottle  cnncallcnt:712701 framecnt:2294132  states: 712701 712701 712700
+[recFace]-1287: 4(ms 2 to 11) Cidx:54 Name:remote control  cnncallcnt:712801 framecnt:2294439  states: 712801 712801 712800
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:712801 framecnt:2294440  states: 712801 712801 712800
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:712801 framecnt:2294441  states: 712801 712801 712800
+[recFace]-1287: 5(ms 2 to 12) Cidx:54 Name:remote control  cnncallcnt:712901 framecnt:2294754  states: 712901 712901 712900
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:712901 framecnt:2294755  states: 712901 712901 712900
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:712901 framecnt:2294756  states: 712901 712901 712900
