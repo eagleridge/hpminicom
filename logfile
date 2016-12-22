@@ -1283,3 +1283,15 @@ Thu Dec 22 10:00:54 PST 2016   cnt 107   pushcnt 107   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 12) Cidx:106 Name:cash machine  cnncallcnt:541001 framecnt:1757945  states: 541001 541001 541000
 [recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:541001 framecnt:1757946  states: 541001 541001 541000
 [recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:541001 framecnt:1757947  states: 541001 541001 541000
+
+Thu Dec 22 10:10:57 PST 2016   cnt 108   pushcnt 108   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:84 Name:candle  cnncallcnt:546501 framecnt:1775180  states: 546501 546501 546500
+[recFace]-1287: 6(ms 6 to 6) Cidx:84 Name:candle  cnncallcnt:546501 framecnt:1775181  states: 546501 546501 546500
+[recFace]-1287: 3(ms 2 to 13) Cidx:94 Name:jellyfish  cnncallcnt:546601 framecnt:1775522  states: 546601 546601 546600
+[recFace]-1287: 2(ms 2 to 2) Cidx:94 Name:jellyfish  cnncallcnt:546601 framecnt:1775523  states: 546601 546601 546600
+[recFace]-1287: 3(ms 3 to 3) Cidx:94 Name:jellyfish  cnncallcnt:546601 framecnt:1775524  states: 546601 546601 546600
+[recFace]-1287: 3(ms 3 to 3) Cidx:94 Name:jellyfish  cnncallcnt:546601 framecnt:1775525  states: 546601 546601 546600
+[recFace]-1287: 3(ms 2 to 11) Cidx:116 Name:dugong  cnncallcnt:546701 framecnt:1775868  states: 546701 546701 546700
+[recFace]-1287: 2(ms 2 to 2) Cidx:116 Name:dugong  cnncallcnt:546701 framecnt:1775869  states: 546701 546701 546700
+[recFace]-1287: 3(ms 3 to 3) Cidx:116 Name:dugong  cnncallcnt:546701 framecnt:1775870  states: 546701 546701 546700
+[recFace]-1287: 3(ms 3 to 3) Cidx:116 Name:dugong  cnncallcnt:546701 framecnt:1775871  states: 546701 546701 546700
