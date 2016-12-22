@@ -119,3 +119,15 @@ Wed Dec 21 17:46:55 PST 2016   cnt 10   pushcnt 10   pushskipcnt 0
 [recFace]-1287: 2(ms 2 to 2) Cidx:132 Name:refrigerator  cnncallcnt:7201 framecnt:22453  states: 7201 7201 7200
 [recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:7201 framecnt:22454  states: 7201 7201 7200
 [recFace]-1287: 6(ms 6 to 6) Cidx:132 Name:refrigerator  cnncallcnt:7201 framecnt:22455  states: 7201 7201 7200
+
+Wed Dec 21 17:56:57 PST 2016   cnt 11   pushcnt 11   pushskipcnt 0
+[recFace]-1287: 4(ms 2 to 17) Cidx:132 Name:refrigerator  cnncallcnt:12701 framecnt:39619  states: 12701 12701 12700
+[recFace]-1287: 2(ms 2 to 2) Cidx:132 Name:refrigerator  cnncallcnt:12701 framecnt:39620  states: 12701 12701 12700
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:12701 framecnt:39621  states: 12701 12701 12700
+[recFace]-1287: 6(ms 6 to 6) Cidx:132 Name:refrigerator  cnncallcnt:12701 framecnt:39622  states: 12701 12701 12700
+[recFace]-1287: 3(ms 2 to 12) Cidx:132 Name:refrigerator  cnncallcnt:12801 framecnt:39932  states: 12801 12801 12800
+[recFace]-1287: 2(ms 2 to 2) Cidx:132 Name:refrigerator  cnncallcnt:12801 framecnt:39933  states: 12801 12801 12800
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:12801 framecnt:39934  states: 12801 12801 12800
+[recFace]-1287: 3(ms 2 to 18) Cidx:132 Name:refrigerator  cnncallcnt:12901 framecnt:40240  states: 12901 12901 12900
+[recFace]-1287: 2(ms 2 to 2) Cidx:132 Name:refrigerator  cnncallcnt:12901 framecnt:40241  states: 12901 12901 12900
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:12901 framecnt:40242  states: 12901 12901 12900
