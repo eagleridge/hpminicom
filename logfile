@@ -1079,3 +1079,15 @@ Thu Dec 22 07:10:13 PST 2016   cnt 90   pushcnt 90   pushskipcnt 0
 [recFace]-1287: 4(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:445701 framecnt:1453727  states: 445701 445701 445700
 [recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:445701 framecnt:1453728  states: 445701 445701 445700
 [recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:445701 framecnt:1453729  states: 445701 445701 445700
+
+Thu Dec 22 07:20:16 PST 2016   cnt 91   pushcnt 91   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:450901 framecnt:1470914  states: 450901 450901 450900
+[recFace]-1287: 5(ms 5 to 5) Cidx:124 Name:broom  cnncallcnt:450901 framecnt:1470915  states: 450901 450901 450900
+[recFace]-1287: 3(ms 2 to 19) Cidx:58 Name:pay-phone  cnncallcnt:451001 framecnt:1471246  states: 451001 451001 451000
+[recFace]-1287: 2(ms 2 to 2) Cidx:58 Name:pay-phone  cnncallcnt:451001 framecnt:1471247  states: 451001 451001 451000
+[recFace]-1287: 3(ms 3 to 3) Cidx:58 Name:pay-phone  cnncallcnt:451001 framecnt:1471248  states: 451001 451001 451000
+[recFace]-1287: 6(ms 6 to 6) Cidx:58 Name:pay-phone  cnncallcnt:451001 framecnt:1471249  states: 451001 451001 451000
+[recFace]-1287: 3(ms 2 to 13) Cidx:124 Name:broom  cnncallcnt:451101 framecnt:1471590  states: 451101 451101 451100
+[recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:451101 framecnt:1471591  states: 451101 451101 451100
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:451101 framecnt:1471592  states: 451101 451101 451100
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:451101 framecnt:1471593  states: 451101 451101 451100
