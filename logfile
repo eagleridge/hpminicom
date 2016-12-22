@@ -1055,3 +1055,15 @@ Thu Dec 22 06:50:09 PST 2016   cnt 88   pushcnt 88   pushskipcnt 0
 [recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:434801 framecnt:1417729  states: 434801 434801 434800
 [recFace]-1287: 5(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:434901 framecnt:1418049  states: 434901 434901 434900
 [recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:434901 framecnt:1418050  states: 434901 434901 434900
+
+Thu Dec 22 07:00:11 PST 2016   cnt 89   pushcnt 89   pushskipcnt 0
+[recFace]-1287: 7(ms 2 to 22) Cidx:124 Name:broom  cnncallcnt:440101 framecnt:1435167  states: 440101 440101 440100
+[recFace]-1287: 6(ms 6 to 6) Cidx:124 Name:broom  cnncallcnt:440101 framecnt:1435168  states: 440101 440101 440100
+[recFace]-1287: 3(ms 2 to 14) Cidx:176 Name:pole  cnncallcnt:440201 framecnt:1435498  states: 440201 440201 440200
+[recFace]-1287: 2(ms 2 to 2) Cidx:176 Name:pole  cnncallcnt:440201 framecnt:1435499  states: 440201 440201 440200
+[recFace]-1287: 3(ms 3 to 3) Cidx:176 Name:pole  cnncallcnt:440201 framecnt:1435500  states: 440201 440201 440200
+[recFace]-1287: 6(ms 6 to 6) Cidx:176 Name:pole  cnncallcnt:440201 framecnt:1435501  states: 440201 440201 440200
+[recFace]-1287: 3(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:440301 framecnt:1435828  states: 440301 440301 440300
+[recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:440301 framecnt:1435829  states: 440301 440301 440300
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:440301 framecnt:1435830  states: 440301 440301 440300
+[recFace]-1287: 6(ms 6 to 6) Cidx:124 Name:broom  cnncallcnt:440301 framecnt:1435831  states: 440301 440301 440300
