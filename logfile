@@ -1463,3 +1463,15 @@ Thu Dec 22 12:31:31 PST 2016   cnt 122   pushcnt 122   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 11) Cidx:85 Name:desk  cnncallcnt:627001 framecnt:2026346  states: 627001 627001 627000
 [recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:627001 framecnt:2026347  states: 627001 627001 627000
 [recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:627001 framecnt:2026348  states: 627001 627001 627000
+
+Thu Dec 22 12:41:34 PST 2016   cnt 123   pushcnt 123   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632401 framecnt:2043174  states: 632401 632401 632400
+[recFace]-1287: 4(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:632501 framecnt:2043487  states: 632501 632501 632500
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632501 framecnt:2043488  states: 632501 632501 632500
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632501 framecnt:2043489  states: 632501 632501 632500
+[recFace]-1287: 4(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:632601 framecnt:2043805  states: 632601 632601 632600
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632601 framecnt:2043806  states: 632601 632601 632600
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632601 framecnt:2043807  states: 632601 632601 632600
+[recFace]-1287: 4(ms 2 to 12) Cidx:85 Name:desk  cnncallcnt:632701 framecnt:2044113  states: 632701 632701 632700
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632701 framecnt:2044114  states: 632701 632701 632700
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:632701 framecnt:2044115  states: 632701 632701 632700
