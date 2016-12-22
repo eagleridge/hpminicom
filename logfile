@@ -1559,3 +1559,15 @@ Thu Dec 22 13:51:52 PST 2016   cnt 130   pushcnt 130   pushskipcnt 0
 [recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:672601 framecnt:2169091  states: 672601 672601 672600
 [recFace]-1287: 4(ms 2 to 11) Cidx:179 Name:bathtub  cnncallcnt:672701 framecnt:2169401  states: 672701 672701 672700
 [recFace]-1287: 4(ms 4 to 4) Cidx:179 Name:bathtub  cnncallcnt:672701 framecnt:2169402  states: 672701 672701 672700
+
+Thu Dec 22 14:01:54 PST 2016   cnt 131   pushcnt 131   pushskipcnt 0
+[recFace]-1287: 3(ms 2 to 12) Cidx:179 Name:bathtub  cnncallcnt:678301 framecnt:2186854  states: 678301 678301 678300
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:678301 framecnt:2186855  states: 678301 678301 678300
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:678301 framecnt:2186856  states: 678301 678301 678300
+[recFace]-1287: 6(ms 2 to 11) Cidx:179 Name:bathtub  cnncallcnt:678401 framecnt:2187165  states: 678401 678401 678400
+[recFace]-1287: 2(ms 2 to 2) Cidx:179 Name:bathtub  cnncallcnt:678401 framecnt:2187166  states: 678401 678401 678400
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:678401 framecnt:2187167  states: 678401 678401 678400
+[recFace]-1287: 4(ms 2 to 12) Cidx:179 Name:bathtub  cnncallcnt:678501 framecnt:2187471  states: 678501 678501 678500
+[recFace]-1287: 2(ms 2 to 2) Cidx:179 Name:bathtub  cnncallcnt:678501 framecnt:2187472  states: 678501 678501 678500
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:678501 framecnt:2187473  states: 678501 678501 678500
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:678501 framecnt:2187474  states: 678501 678501 678500
