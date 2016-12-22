@@ -611,3 +611,15 @@ Thu Dec 22 00:38:36 PST 2016   cnt 51   pushcnt 51   pushskipcnt 0
 [recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:234401 framecnt:755596  states: 234401 234401 234400
 [recFace]-1287: 6(ms 2 to 16) Cidx:124 Name:broom  cnncallcnt:234501 framecnt:755957  states: 234501 234501 234500
 [recFace]-1287: 7(ms 7 to 7) Cidx:124 Name:broom  cnncallcnt:234501 framecnt:755958  states: 234501 234501 234500
+
+Thu Dec 22 00:48:39 PST 2016   cnt 52   pushcnt 52   pushskipcnt 0
+[recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:239801 framecnt:773349  states: 239801 239801 239800
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:239801 framecnt:773350  states: 239801 239801 239800
+[recFace]-1287: 7(ms 7 to 7) Cidx:124 Name:broom  cnncallcnt:239801 framecnt:773351  states: 239801 239801 239800
+[recFace]-1287: 3(ms 2 to 14) Cidx:124 Name:broom  cnncallcnt:239901 framecnt:773662  states: 239901 239901 239900
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:239901 framecnt:773663  states: 239901 239901 239900
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:239901 framecnt:773664  states: 239901 239901 239900
+[recFace]-1287: 3(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:240001 framecnt:773984  states: 240001 240001 240000
+[recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:240001 framecnt:773985  states: 240001 240001 240000
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:240001 framecnt:773986  states: 240001 240001 240000
+[recFace]-1287: 6(ms 6 to 6) Cidx:124 Name:broom  cnncallcnt:240001 framecnt:773987  states: 240001 240001 240000
