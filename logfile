@@ -1535,3 +1535,15 @@ Thu Dec 22 13:31:47 PST 2016   cnt 128   pushcnt 128   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 13) Cidx:85 Name:desk  cnncallcnt:661301 framecnt:2133692  states: 661301 661301 661300
 [recFace]-1287: 2(ms 2 to 2) Cidx:85 Name:desk  cnncallcnt:661301 framecnt:2133693  states: 661301 661301 661300
 [recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:661301 framecnt:2133694  states: 661301 661301 661300
+
+Thu Dec 22 13:41:49 PST 2016   cnt 129   pushcnt 129   pushskipcnt 0
+[recFace]-1287: 3(ms 2 to 12) Cidx:46 Name:banana  cnncallcnt:666801 framecnt:2150998  states: 666801 666801 666800
+[recFace]-1287: 3(ms 3 to 3) Cidx:46 Name:banana  cnncallcnt:666801 framecnt:2150999  states: 666801 666801 666800
+[recFace]-1287: 3(ms 3 to 3) Cidx:46 Name:banana  cnncallcnt:666801 framecnt:2151000  states: 666801 666801 666800
+[recFace]-1287: 4(ms 2 to 12) Cidx:46 Name:banana  cnncallcnt:666901 framecnt:2151307  states: 666901 666901 666900
+[recFace]-1287: 3(ms 3 to 3) Cidx:46 Name:banana  cnncallcnt:666901 framecnt:2151308  states: 666901 666901 666900
+[recFace]-1287: 3(ms 3 to 3) Cidx:46 Name:banana  cnncallcnt:666901 framecnt:2151309  states: 666901 666901 666900
+[recFace]-1287: 4(ms 2 to 12) Cidx:179 Name:bathtub  cnncallcnt:667001 framecnt:2151615  states: 667001 667001 667000
+[recFace]-1287: 2(ms 2 to 2) Cidx:179 Name:bathtub  cnncallcnt:667001 framecnt:2151616  states: 667001 667001 667000
+[recFace]-1287: 3(ms 3 to 3) Cidx:179 Name:bathtub  cnncallcnt:667001 framecnt:2151617  states: 667001 667001 667000
+[recFace]-1287: 6(ms 6 to 6) Cidx:179 Name:bathtub  cnncallcnt:667001 framecnt:2151618  states: 667001 667001 667000
