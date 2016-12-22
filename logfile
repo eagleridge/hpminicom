@@ -1319,3 +1319,15 @@ Thu Dec 22 10:31:03 PST 2016   cnt 110   pushcnt 110   pushskipcnt 0
 [recFace]-1287: 5(ms 2 to 12) Cidx:91 Name:iPod  cnncallcnt:558201 framecnt:1811748  states: 558201 558201 558200
 [recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:558201 framecnt:1811749  states: 558201 558201 558200
 [recFace]-1287: 3(ms 3 to 3) Cidx:91 Name:iPod  cnncallcnt:558201 framecnt:1811750  states: 558201 558201 558200
+
+Thu Dec 22 10:41:05 PST 2016   cnt 111   pushcnt 111   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:85 Name:desk  cnncallcnt:563601 framecnt:1828578  states: 563601 563601 563600
+[recFace]-1287: 4(ms 2 to 16) Cidx:126 Name:wooden spoon  cnncallcnt:563701 framecnt:1828887  states: 563701 563701 563700
+[recFace]-1287: 3(ms 3 to 3) Cidx:126 Name:wooden spoon  cnncallcnt:563701 framecnt:1828888  states: 563701 563701 563700
+[recFace]-1287: 3(ms 3 to 3) Cidx:126 Name:wooden spoon  cnncallcnt:563701 framecnt:1828889  states: 563701 563701 563700
+[recFace]-1287: 4(ms 2 to 11) Cidx:126 Name:wooden spoon  cnncallcnt:563801 framecnt:1829201  states: 563801 563801 563800
+[recFace]-1287: 2(ms 2 to 2) Cidx:126 Name:wooden spoon  cnncallcnt:563801 framecnt:1829202  states: 563801 563801 563800
+[recFace]-1287: 3(ms 3 to 3) Cidx:126 Name:wooden spoon  cnncallcnt:563801 framecnt:1829203  states: 563801 563801 563800
+[recFace]-1287: 3(ms 3 to 3) Cidx:126 Name:wooden spoon  cnncallcnt:563801 framecnt:1829204  states: 563801 563801 563800
+[recFace]-1287: 3(ms 2 to 13) Cidx:176 Name:pole  cnncallcnt:563901 framecnt:1829510  states: 563901 563901 563900
+[recFace]-1287: 3(ms 3 to 3) Cidx:176 Name:pole  cnncallcnt:563901 framecnt:1829511  states: 563901 563901 563900
