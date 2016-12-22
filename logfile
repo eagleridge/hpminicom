@@ -1103,3 +1103,15 @@ Thu Dec 22 07:30:18 PST 2016   cnt 92   pushcnt 92   pushskipcnt 0
 [recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:456501 framecnt:1489463  states: 456501 456501 456500
 [recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:456501 framecnt:1489464  states: 456501 456501 456500
 [recFace]-1287: 6(ms 6 to 6) Cidx:124 Name:broom  cnncallcnt:456501 framecnt:1489465  states: 456501 456501 456500
+
+Thu Dec 22 07:40:21 PST 2016   cnt 93   pushcnt 93   pushskipcnt 0
+[recFace]-1287: 6(ms 6 to 6) Cidx:77 Name:miniskirt  cnncallcnt:461701 framecnt:1506509  states: 461701 461701 461700
+[recFace]-1287: 6(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:461801 framecnt:1506831  states: 461801 461801 461800
+[recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:461801 framecnt:1506832  states: 461801 461801 461800
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:461801 framecnt:1506833  states: 461801 461801 461800
+[recFace]-1287: 3(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:461901 framecnt:1507168  states: 461901 461901 461900
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:461901 framecnt:1507169  states: 461901 461901 461900
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:461901 framecnt:1507170  states: 461901 461901 461900
+[recFace]-1287: 4(ms 2 to 19) Cidx:124 Name:broom  cnncallcnt:462001 framecnt:1507485  states: 462001 462001 462000
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:462001 framecnt:1507486  states: 462001 462001 462000
+[recFace]-1287: 4(ms 4 to 4) Cidx:124 Name:broom  cnncallcnt:462001 framecnt:1507487  states: 462001 462001 462000
