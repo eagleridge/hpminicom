@@ -1235,3 +1235,15 @@ Thu Dec 22 09:20:45 PST 2016   cnt 103   pushcnt 103   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 12) Cidx:132 Name:refrigerator  cnncallcnt:518101 framecnt:1686504  states: 518101 518101 518100
 [recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:518101 framecnt:1686505  states: 518101 518101 518100
 [recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:518101 framecnt:1686506  states: 518101 518101 518100
+
+Thu Dec 22 09:30:47 PST 2016   cnt 104   pushcnt 104   pushskipcnt 0
+[recFace]-1287: 6(ms 6 to 6) Cidx:159 Name:orangutan  cnncallcnt:523501 framecnt:1703373  states: 523501 523501 523500
+[recFace]-1287: 4(ms 2 to 12) Cidx:106 Name:cash machine  cnncallcnt:523601 framecnt:1703691  states: 523601 523601 523600
+[recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:523601 framecnt:1703692  states: 523601 523601 523600
+[recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:523601 framecnt:1703693  states: 523601 523601 523600
+[recFace]-1287: 3(ms 2 to 17) Cidx:106 Name:cash machine  cnncallcnt:523701 framecnt:1704004  states: 523701 523701 523700
+[recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:523701 framecnt:1704005  states: 523701 523701 523700
+[recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:523701 framecnt:1704006  states: 523701 523701 523700
+[recFace]-1287: 3(ms 2 to 11) Cidx:106 Name:cash machine  cnncallcnt:523801 framecnt:1704314  states: 523801 523801 523800
+[recFace]-1287: 11(ms 11 to 11) Cidx:106 Name:cash machine  cnncallcnt:523801 framecnt:1704315  states: 523801 523801 523800
+[recFace]-1287: 3(ms 3 to 3) Cidx:106 Name:cash machine  cnncallcnt:523801 framecnt:1704316  states: 523801 523801 523800
