@@ -2279,3 +2279,15 @@ Thu Dec 22 23:54:21 PST 2016   cnt 190   pushcnt 190   pushskipcnt 0
 [recFace]-1287: 4(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:1015501 framecnt:3243239  states: 1015501 1015501 1015500
 [recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:1015501 framecnt:3243240  states: 1015501 1015501 1015500
 [recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:1015501 framecnt:3243241  states: 1015501 1015501 1015500
+
+Fri Dec 23 00:04:23 PST 2016   cnt 191   pushcnt 191   pushskipcnt 0
+[recFace]-1287: 4(ms 2 to 12) Cidx:31 Name:cardigan  cnncallcnt:1020901 framecnt:3260271  states: 1020901 1020901 1020900
+[recFace]-1287: 6(ms 6 to 6) Cidx:31 Name:cardigan  cnncallcnt:1020901 framecnt:3260272  states: 1020901 1020901 1020900
+[recFace]-1287: 3(ms 2 to 12) Cidx:124 Name:broom  cnncallcnt:1021001 framecnt:3260576  states: 1021001 1021001 1021000
+[recFace]-1287: 2(ms 2 to 2) Cidx:124 Name:broom  cnncallcnt:1021001 framecnt:3260577  states: 1021001 1021001 1021000
+[recFace]-1287: 3(ms 3 to 3) Cidx:124 Name:broom  cnncallcnt:1021001 framecnt:3260578  states: 1021001 1021001 1021000
+[recFace]-1287: 6(ms 6 to 6) Cidx:124 Name:broom  cnncallcnt:1021001 framecnt:3260579  states: 1021001 1021001 1021000
+[recFace]-1287: 4(ms 2 to 19) Cidx:31 Name:cardigan  cnncallcnt:1021101 framecnt:3260895  states: 1021101 1021101 1021100
+[recFace]-1287: 2(ms 2 to 2) Cidx:31 Name:cardigan  cnncallcnt:1021101 framecnt:3260896  states: 1021101 1021101 1021100
+[recFace]-1287: 3(ms 3 to 3) Cidx:31 Name:cardigan  cnncallcnt:1021101 framecnt:3260897  states: 1021101 1021101 1021100
+[recFace]-1287: 3(ms 3 to 3) Cidx:31 Name:cardigan  cnncallcnt:1021101 framecnt:3260898  states: 1021101 1021101 1021100
