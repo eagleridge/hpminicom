@@ -12,3 +12,15 @@ Sat Jan  3 23:54:02 UTC 1970
 /mnt/test # 
 /mnt/test # 
 /mnt/test # 
+
+Fri Dec 23 13:03:39 PST 2016   cnt 2   pushcnt 2   pushskipcnt 0
+drwxr-xr-x    2 1001     1001          4096 Nov  3  2016 letters
+drwxr-xr-x    2 1001     1001          4096 Nov  4  2016 letters32
+-rwxrwxr-x    1 1001     1001          2924 Nov  9  2016 main.cpp
+-rw-rw-r--    1 1001     1001          3756 Dec 19  2016 main.o
+-rwxr-xr-x    1 1001     1001          2015 Dec 12  2016 namelist.txt
+-rwxrwxr-x    1 1001     1001       1419000 Dec 23  2016 test
+-rwxrwxr-x    1 1001     1001          4096 Dec  7  2016 triumphal.yuv
+/mnt/test # login[744]: root login on 'pts/0'
+
+/mnt/test # 
