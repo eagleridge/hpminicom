@@ -1727,3 +1727,15 @@ Thu Dec 22 16:12:27 PST 2016   cnt 144   pushcnt 144   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 13) Cidx:187 Name:beaker  cnncallcnt:753101 framecnt:2420130  states: 753101 753101 753100
 [recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:753101 framecnt:2420131  states: 753101 753101 753100
 [recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:753101 framecnt:2420132  states: 753101 753101 753100
+
+Thu Dec 22 16:22:29 PST 2016   cnt 145   pushcnt 145   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:758501 framecnt:2436961  states: 758501 758501 758500
+[recFace]-1287: 3(ms 2 to 12) Cidx:187 Name:beaker  cnncallcnt:758601 framecnt:2437268  states: 758601 758601 758600
+[recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:758601 framecnt:2437269  states: 758601 758601 758600
+[recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:758601 framecnt:2437270  states: 758601 758601 758600
+[recFace]-1287: 3(ms 2 to 17) Cidx:187 Name:beaker  cnncallcnt:758701 framecnt:2437586  states: 758701 758701 758700
+[recFace]-1287: 2(ms 2 to 2) Cidx:187 Name:beaker  cnncallcnt:758701 framecnt:2437587  states: 758701 758701 758700
+[recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:758701 framecnt:2437588  states: 758701 758701 758700
+[recFace]-1287: 4(ms 2 to 13) Cidx:187 Name:beaker  cnncallcnt:758801 framecnt:2437899  states: 758801 758801 758800
+[recFace]-1287: 2(ms 2 to 2) Cidx:187 Name:beaker  cnncallcnt:758801 framecnt:2437900  states: 758801 758801 758800
+[recFace]-1287: 3(ms 3 to 3) Cidx:187 Name:beaker  cnncallcnt:758801 framecnt:2437901  states: 758801 758801 758800
