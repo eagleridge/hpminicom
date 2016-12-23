@@ -2003,3 +2003,15 @@ Thu Dec 22 20:03:25 PST 2016   cnt 167   pushcnt 167   pushskipcnt 0
 [recFace]-1287: 4(ms 2 to 12) Cidx:54 Name:remote control  cnncallcnt:885101 framecnt:2831659  states: 885101 885101 885100
 [recFace]-1287: 12(ms 12 to 12) Cidx:54 Name:remote control  cnncallcnt:885101 framecnt:2831660  states: 885101 885101 885100
 [recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:885101 framecnt:2831661  states: 885101 885101 885100
+
+Thu Dec 22 20:13:27 PST 2016   cnt 168   pushcnt 168   pushskipcnt 0
+[recFace]-1287: 4(ms 2 to 12) Cidx:54 Name:remote control  cnncallcnt:890601 framecnt:2848795  states: 890601 890601 890600
+[recFace]-1287: 2(ms 2 to 2) Cidx:54 Name:remote control  cnncallcnt:890601 framecnt:2848796  states: 890601 890601 890600
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:890601 framecnt:2848797  states: 890601 890601 890600
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:890601 framecnt:2848798  states: 890601 890601 890600
+[recFace]-1287: 3(ms 2 to 12) Cidx:54 Name:remote control  cnncallcnt:890701 framecnt:2849112  states: 890701 890701 890700
+[recFace]-1287: 2(ms 2 to 2) Cidx:54 Name:remote control  cnncallcnt:890701 framecnt:2849113  states: 890701 890701 890700
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:890701 framecnt:2849114  states: 890701 890701 890700
+[recFace]-1287: 4(ms 2 to 11) Cidx:54 Name:remote control  cnncallcnt:890801 framecnt:2849423  states: 890801 890801 890800
+[recFace]-1287: 2(ms 2 to 2) Cidx:54 Name:remote control  cnncallcnt:890801 framecnt:2849424  states: 890801 890801 890800
+[recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:890801 framecnt:2849425  states: 890801 890801 890800
