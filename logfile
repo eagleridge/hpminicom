@@ -3179,3 +3179,15 @@ Fri Dec 23 12:27:25 PST 2016   cnt 265   pushcnt 265   pushskipcnt 0
 [recFace]-1287: 4(ms 2 to 13) Cidx:186 Name:obelisk  cnncallcnt:1440901 framecnt:4585069  states: 1440901 1440901 1440900
 [recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1440901 framecnt:4585070  states: 1440901 1440901 1440900
 [recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1440901 framecnt:4585071  states: 1440901 1440901 1440900
+
+Fri Dec 23 12:37:27 PST 2016   cnt 266   pushcnt 266   pushskipcnt 0
+Terminating face recognition thread
+
+encoding thread waiting for termination returned
+
+ bgtThreadFunc run ... returning
+[recFace]-1292: 3(ms) 186 Name:obelisk
+
+ 1388 SAMPLE_IVE_ViToVo done. returning
+Face recognition thread terminated
+/mnt/test # 
