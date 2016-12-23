@@ -3143,3 +3143,15 @@ Fri Dec 23 11:57:18 PST 2016   cnt 262   pushcnt 262   pushskipcnt 0
 [recFace]-1287: 2(ms 2 to 2) Cidx:186 Name:obelisk  cnncallcnt:1423701 framecnt:4531371  states: 1423701 1423701 1423700
 [recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1423701 framecnt:4531372  states: 1423701 1423701 1423700
 [recFace]-1287: 6(ms 6 to 6) Cidx:186 Name:obelisk  cnncallcnt:1423701 framecnt:4531373  states: 1423701 1423701 1423700
+
+Fri Dec 23 12:07:20 PST 2016   cnt 263   pushcnt 263   pushskipcnt 0
+[recFace]-1287: 3(ms 2 to 12) Cidx:186 Name:obelisk  cnncallcnt:1429301 framecnt:4548872  states: 1429301 1429301 1429300
+[recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1429301 framecnt:4548873  states: 1429301 1429301 1429300
+[recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1429301 framecnt:4548874  states: 1429301 1429301 1429300
+[recFace]-1287: 5(ms 2 to 12) Cidx:186 Name:obelisk  cnncallcnt:1429401 framecnt:4549180  states: 1429401 1429401 1429400
+[recFace]-1287: 2(ms 2 to 2) Cidx:186 Name:obelisk  cnncallcnt:1429401 framecnt:4549181  states: 1429401 1429401 1429400
+[recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1429401 framecnt:4549182  states: 1429401 1429401 1429400
+[recFace]-1287: 4(ms 2 to 11) Cidx:186 Name:obelisk  cnncallcnt:1429501 framecnt:4549493  states: 1429501 1429501 1429500
+[recFace]-1287: 2(ms 2 to 2) Cidx:186 Name:obelisk  cnncallcnt:1429501 framecnt:4549494  states: 1429501 1429501 1429500
+[recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1429501 framecnt:4549495  states: 1429501 1429501 1429500
+[recFace]-1287: 3(ms 3 to 3) Cidx:186 Name:obelisk  cnncallcnt:1429501 framecnt:4549496  states: 1429501 1429501 1429500
