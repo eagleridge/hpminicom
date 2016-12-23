@@ -24,3 +24,15 @@ drwxr-xr-x    2 1001     1001          4096 Nov  4  2016 letters32
 /mnt/test # login[744]: root login on 'pts/0'
 
 /mnt/test # 
+
+Fri Dec 23 13:04:41 PST 2016   cnt 3   pushcnt 3   pushskipcnt 0
+~ # sh t1.sh~ # sh t1.sh 
+
+======================================
+cnt 1    Sat Jan  3 23:55:37 UTC 1970
+
+             total         used         free       shared      buffers
+Mem:        253888        27352       226536            0          140
+-/+ buffers:              27212       226676
+Swap:            0            0            0
+======================================
