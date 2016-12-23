@@ -1,2 +1,14 @@
 new test
 Fri Dec 23 13:01:47 PST 2016
+
+Fri Dec 23 13:02:36 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
+ bgtThreadFunc run ... returning
+Face recognition thread terminated
+/mnt/test # 
+/mnt/test # 
+/mnt/test # /mnt/test # ./test/mnt/test # ./test > /dev/null 2>&1 &
+/mnt/test # date
+Sat Jan  3 23:54:02 UTC 1970
+/mnt/test # 
+/mnt/test # 
+/mnt/test # 
