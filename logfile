@@ -1907,3 +1907,15 @@ Thu Dec 22 18:43:06 PST 2016   cnt 159   pushcnt 159   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 11) Cidx:54 Name:remote control  cnncallcnt:839101 framecnt:2688386  states: 839101 839101 839100
 [recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:839101 framecnt:2688387  states: 839101 839101 839100
 [recFace]-1287: 3(ms 3 to 3) Cidx:54 Name:remote control  cnncallcnt:839101 framecnt:2688388  states: 839101 839101 839100
+
+Thu Dec 22 18:53:08 PST 2016   cnt 160   pushcnt 160   pushskipcnt 0
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:844601 framecnt:2705530  states: 844601 844601 844600
+[recFace]-1287: 4(ms 2 to 12) Cidx:132 Name:refrigerator  cnncallcnt:844701 framecnt:2705841  states: 844701 844701 844700
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:844701 framecnt:2705842  states: 844701 844701 844700
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:844701 framecnt:2705843  states: 844701 844701 844700
+[recFace]-1287: 5(ms 2 to 11) Cidx:132 Name:refrigerator  cnncallcnt:844801 framecnt:2706154  states: 844801 844801 844800
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:844801 framecnt:2706155  states: 844801 844801 844800
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:844801 framecnt:2706156  states: 844801 844801 844800
+[recFace]-1287: 5(ms 2 to 12) Cidx:132 Name:refrigerator  cnncallcnt:844901 framecnt:2706466  states: 844901 844901 844900
+[recFace]-1287: 2(ms 2 to 2) Cidx:132 Name:refrigerator  cnncallcnt:844901 framecnt:2706467  states: 844901 844901 844900
+[recFace]-1287: 3(ms 3 to 3) Cidx:132 Name:refrigerator  cnncallcnt:844901 framecnt:2706468  states: 844901 844901 844900
