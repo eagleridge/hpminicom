@@ -2351,3 +2351,15 @@ Fri Dec 23 00:54:36 PST 2016   cnt 196   pushcnt 196   pushskipcnt 0
 [recFace]-1287: 3(ms 2 to 14) Cidx:31 Name:cardigan  cnncallcnt:1049401 framecnt:3350608  states: 1049401 1049401 1049400
 [recFace]-1287: 2(ms 2 to 2) Cidx:31 Name:cardigan  cnncallcnt:1049401 framecnt:3350609  states: 1049401 1049401 1049400
 [recFace]-1287: 3(ms 3 to 3) Cidx:31 Name:cardigan  cnncallcnt:1049401 framecnt:3350610  states: 1049401 1049401 1049400
+
+Fri Dec 23 01:04:38 PST 2016   cnt 197   pushcnt 197   pushskipcnt 0
+[recFace]-1287: 6(ms 6 to 6) Cidx:47 Name:sock  cnncallcnt:1054701 framecnt:3367354  states: 1054701 1054701 1054700
+[recFace]-1287: 4(ms 2 to 19) Cidx:31 Name:cardigan  cnncallcnt:1054801 framecnt:3367663  states: 1054801 1054801 1054800
+[recFace]-1287: 2(ms 2 to 2) Cidx:31 Name:cardigan  cnncallcnt:1054801 framecnt:3367664  states: 1054801 1054801 1054800
+[recFace]-1287: 3(ms 3 to 3) Cidx:31 Name:cardigan  cnncallcnt:1054801 framecnt:3367665  states: 1054801 1054801 1054800
+[recFace]-1287: 6(ms 6 to 6) Cidx:31 Name:cardigan  cnncallcnt:1054801 framecnt:3367666  states: 1054801 1054801 1054800
+[recFace]-1287: 4(ms 2 to 12) Cidx:47 Name:sock  cnncallcnt:1054901 framecnt:3367981  states: 1054901 1054901 1054900
+[recFace]-1287: 3(ms 3 to 3) Cidx:47 Name:sock  cnncallcnt:1054901 framecnt:3367982  states: 1054901 1054901 1054900
+[recFace]-1287: 4(ms 4 to 4) Cidx:47 Name:sock  cnncallcnt:1054901 framecnt:3367983  states: 1054901 1054901 1054900
+[recFace]-1287: 4(ms 2 to 13) Cidx:31 Name:cardigan  cnncallcnt:1055001 framecnt:3368289  states: 1055001 1055001 1055000
+[recFace]-1287: 3(ms 3 to 3) Cidx:31 Name:cardigan  cnncallcnt:1055001 framecnt:3368290  states: 1055001 1055001 1055000
