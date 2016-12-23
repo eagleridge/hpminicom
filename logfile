@@ -1,2 +1,14 @@
 new test
 Fri Dec 23 15:55:10 PST 2016
+
+Fri Dec 23 15:55:49 PST 2016   cnt 1   pushcnt 1   pushskipcnt 0
+~ # sh t1.sh~ # sh t1.sh 
+
+======================================
+cnt 1    Thu Jan  1 00:18:26 UTC 1970
+
+             total         used         free       shared      buffers
+Mem:        253888        44588       209300            0          140
+-/+ buffers:              44448       209440
+Swap:            0            0            0
+======================================
