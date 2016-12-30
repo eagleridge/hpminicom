@@ -15,6 +15,8 @@ dt='startstring'
         echo -n cnt $cnt '  ' >> logfile
         echo -n pushcnt $pushcnt '  ' >> logfile
         echo pushskipcnt $pushskipcnt >> logfile
+        echo -n error count
+        grep Error minicom.cap | wc >> logfile
     }
 
 while [ $cnt -lt $cntmax ]; do
@@ -41,6 +43,8 @@ while [ $cnt -lt $cntmax ]; do
     echo '======================================'
         echo $dt
         echo cnt $cnt push pushcnt $pushcnt pushskipcnt $pushskipcnt
+        echo -n error count
+        grep Error minicom.cap | wc >> logfile
         echo 
     if [ $cnt -lt 10 ]; then
         echo sleep 60
