@@ -386,3 +386,17 @@ Thu Jan 5 18:05:50 PST 2017   cnt 4   pushcnt 4   pushskipcnt 0
 [recFace]-1847: 2(ms) models index/name: 61/lampshade 6/48-53 0/F
  mscost  0 4 57 61  1 4 55 59  2 4 56 60 
 [recFace]-1847: 9(ms) model
+      0       0       0
+
+Thu Jan 5 18:06:53 PST 2017   cnt 5   pushcnt 5   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 2(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 3(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 4(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 1(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 2(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 4(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 0(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 2(ms) models index/name: 61/lampshade 6/48-53 0/F
+ mscost  0 9 66 75  1 4 56 60  2 4 53 57 
+[recFace]-1847: 14(ms) models index/name: 61/lampshade 6/48-53 0/F
