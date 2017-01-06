@@ -526,3 +526,17 @@ Thu Jan 5 18:52:16 PST 2017   cnt 14   pushcnt 14   pushskipcnt 0
 [recFace]-1847: 2(ms) models index/name: 132/refrigerator 4/25-32 1/M
  mscost  0 5 66 71  1 4 64 68  2 4 55 59 
 [recFace]-1847: 9(ms) models index/name: 132/refrigerator 4/25-32 1/M
+      0       0       0
+
+Thu Jan 5 19:02:19 PST 2017   cnt 15   pushcnt 15   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 2(ms) models index/name: 96/potters wheel 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 96/potters wheel 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 96/potters wheel 5/38-43 1/M
+[recFace]-1847: 0(ms) models index/name: 96/potters wheel 5/38-43 1/M
+[recFace]-1847: 2(ms) models index/name: 96/potters wheel 5/38-43 1/M
+ mscost  0 13 68 81  1 7 64 71  2 4 53 57 
+[recFace]-1847: 19(ms) models index/name: 96/potters wheel 5/38-43 1/M
+[recFace]-1847: 4(ms) models index/name: 96/potters wheel 5/38-43 1/M
+[recFace]-1847: 9(ms) models index/name: 96/potters wheel 5/38-43 1/M
+[recFace]-1847: 2(ms) models index/name: 96/potters wheel 5/38-43 1/M
