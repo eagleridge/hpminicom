@@ -331,3 +331,16 @@ drwxr-xr-x    2 1001     1001          4096 Jan  4  2017 letters
 /mnt/testv100/test # 
 /mnt/testv100/test # 
       0       0       0
+
+Thu Jan 5 18:02:43 PST 2017   cnt 1   pushcnt 1   pushskipcnt 0
+      0       0       0
+drwxrwxrwx    3 1000     1000          4096 Jan  5  2017 test
+/mnt/testv100 # cd test/mnt/testv100 # cd test/
+/mnt/testv100/test # ls -l
+total 1412
+-rw-rw-r--    1 1001     1001          4096 Jan  5  2017 age_3843.yuv
+drwxr-xr-x    2 1001     1001          4096 Jan  4  2017 letters
+-rwxrwxr-x    1 1001     1001       1433688 Jan  6  2017 test
+/mnt/testv100/test # cd 
+/mnt/testv100/test # 
+/mnt/testv100/test # 
