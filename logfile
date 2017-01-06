@@ -1016,3 +1016,17 @@ Fri Jan 6 00:43:47 PST 2017   cnt 49   pushcnt 49   pushskipcnt 0
 [recFace]-1847: 3(ms) models index/name: 185/altar 4/25-32 1/M
  mscost  0 6 72 78  1 7 55 62  2 6 58 64 
 [recFace]-1847: 10(ms) models index/name: 185/altar 4/25-32 0/F
+      0       0       0
+
+Fri Jan 6 00:53:49 PST 2017   cnt 50   pushcnt 50   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 2(ms) models index/name: 104/vestment 4/25-32 1/M
+ mscost  0 6 69 75  1 6 62 68  2 4 60 64 
+[recFace]-1847: 9(ms) models index/name: 104/vestment 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 104/vestment 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 104/vestment 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 104/vestment 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 185/altar 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 185/altar 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 185/altar 4/25-32 1/M
+[recFace]-1847: 4(ms) models index
