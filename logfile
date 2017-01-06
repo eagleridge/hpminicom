@@ -344,3 +344,17 @@ drwxr-xr-x    2 1001     1001          4096 Jan  4  2017 letters
 /mnt/testv100/test # cd 
 /mnt/testv100/test # 
 /mnt/testv100/test # 
+      0       0       0
+
+Thu Jan 5 18:03:46 PST 2017   cnt 2   pushcnt 2   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 0(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 2(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 4(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 0(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 2(ms) models index/name: 61/lampshade 6/48-53 0/F
+ mscost  0 4 58 62  1 4 55 59  2 4 59 63 
+[recFace]-1847: 9(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 4(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 0(ms) models index/name: 61/lampshade 6/48-53 0/F
+[recFace]-1847: 2(ms) models index/name: 61/lampshade 6/48-53 0/F
