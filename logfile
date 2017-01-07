@@ -3816,3 +3816,17 @@ Sat Jan 7 10:13:16 PST 2017   cnt 249   pushcnt 249   pushskipcnt 0
 [recFace]-1847: 6(ms) models index/name: 32/baboon 4/25-32 1/M
 [recFace]-1847: 7(ms) models index/name: 32/baboon 4/25-32 1/M
 [recFace]-1847: 2(ms) models index/name: 32/baboon 4/25-32 1/M
+      0       0       0
+
+Sat Jan 7 10:23:19 PST 2017   cnt 250   pushcnt 250   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 2(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 3(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 6(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 72/birdhouse 4/25-32 1/M
+ mscost  0 6 71 77  1 6 63 69  2 6 56 62 
+[recFace]-1847: 16(ms) models index/name: 72/birdhouse 4/25-32 0/F
+[recFace]-1847: 6(ms) models index/name: 72/birdhouse 4/25-32 0/F
+[recFace]-1847: 2(ms) models index/name: 72/birdhouse 4/25-32 0/F
+[recFace]-1847: 2(ms) models index/na
