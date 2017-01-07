@@ -3186,3 +3186,17 @@ Sat Jan 7 02:41:01 PST 2017   cnt 204   pushcnt 204   pushskipcnt 0
  mscost  0 6 66 72  1 6 53 59  2 7 62 69 
 [recFace]-1847: 16(ms) models index/name: 159/orangutan 4/25-32 1/M
 [recFace]-1847: 6(ms) models index/name: 159/orangutan 4/2
+      0       0       0
+
+Sat Jan 7 02:51:04 PST 2017   cnt 205   pushcnt 205   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 2(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+[recFace]-1847: 0(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+ mscost  0 4 60 64  1 4 64 68  2 4 56 60 
+[recFace]-1847: 9(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
