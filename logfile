@@ -3844,3 +3844,17 @@ Sat Jan 7 10:33:22 PST 2017   cnt 251   pushcnt 251   pushskipcnt 0
  mscost  0 6 73 79  1 6 61 67  2 9 55 64 
 [recFace]-1847: 13(ms) models index/name: 32/baboon 4/25-32 0/F
 [recFace]-1847: 6(ms) models index/name: 32/baboon 4/25-32 0/F
+      0       0       0
+
+Sat Jan 7 10:43:25 PST 2017   cnt 252   pushcnt 252   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 2(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 0(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 5(ms) models index/name: 159/orangutan 1/4-6 1/M
+[recFace]-1847: 0(ms) models index/name: 159/orangutan 1/4-6 1/M
+[recFace]-1847: 2(ms) models index/name: 159/orangutan 1/4-6 1/M
+[recFace]-1847: 3(ms) models index/name: 159/orangutan 1/4-6 1/M
+ mscost  0 4 66 70  1 5 14 19  2 5 57 62 
+[recFace]-1847: 9(ms) models index/name: 159/orangutan 1/4-6 1/M
+[recFace]-1847: 4(ms) models index/name: 159/orangutan 1/4-6 1/M
+[recFace]-1847: 0(ms) models index/name: 159/orangutan 1/4
