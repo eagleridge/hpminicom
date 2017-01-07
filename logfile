@@ -3984,3 +3984,17 @@ Sat Jan 7 12:13:52 PST 2017   cnt 261   pushcnt 261   pushskipcnt 0
 [recFace]-1847: 3(ms) models index/name: 58/pay-phone 4/25-32 1/M
  mscost  0 4 65 69  1 4 57 61  2 4 57 61 
 [recFace]-1847: 9(ms) models index/name: 5
+      0       0       0
+
+Sat Jan 7 12:23:55 PST 2017   cnt 262   pushcnt 262   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 0(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 7(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 9(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 0(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 159/orangutan 4/25-32 1/M
+ mscost  0 4 66 70  1 9 56 65  2 4 64 68 
+[recFace]-1847: 14(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 159/orangutan 4/25-32 1/M
