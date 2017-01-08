@@ -5160,3 +5160,17 @@ Sun Jan 8 02:18:22 PST 2017   cnt 345   pushcnt 345   pushskipcnt 0
 [recFace]-1847: 5(ms) models index/name: 159/orangutan 4/25-32 1/M
 [recFace]-1847: 13(ms) models index/name: 159/orangutan 4/25-32 1/M
  mscost  0 6 66 72  1 9 58 67  2 16 61 77 
+      0       0       0
+
+Sun Jan 8 02:28:25 PST 2017   cnt 346   pushcnt 346   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 3(ms) models index/name: 159/orangutan 4/25-32 1/M
+ mscost  0 4 66 70  1 4 60 64  2 4 60 64 
+[recFace]-1847: 9(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 5(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 3(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 4(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 159/orangutan 4/25-32 1/M
+[recFace]-1847: 2(ms) models in
