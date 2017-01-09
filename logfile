@@ -7960,3 +7960,17 @@ Mon Jan 9 11:50:25 PST 2017   cnt 545   pushcnt 545   pushskipcnt 0
  mscost  0 7 64 71  1 4 61 65  2 4 66 70 
 [recFace]-1847: 30(ms) models index/name: 106/cash machine 4/25-32 0/F
 [recFace]-1847: 0(ms) models index/name: 106/cash machine 4/25-32 0/F
+      0       0       0
+
+Mon Jan 9 12:00:28 PST 2017   cnt 546   pushcnt 546   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 2(ms) models index/name: 106/cash machine 4/25-32 0/F
+[recFace]-1847: 2(ms) models index/name: 106/cash machine 4/25-32 0/F
+ mscost  0 7 64 71  1 5 61 66  2 4 67 71 
+[recFace]-1847: 28(ms) models index/name: 106/cash machine 4/25-32 0/F
+[recFace]-1847: 0(ms) models index/name: 106/cash machine 4/25-32 0/F
+[recFace]-1847: 4(ms) models index/name: 106/cash machine 4/25-32 0/F
+[recFace]-1847: 2(ms) models index/name: 106/cash machine 4/25-32 0/F
+[recFace]-1847: 2(ms) models index/name: 106/cash machine 4/25-32 0/F
+ mscost  0 7 30 37  1 5 14 19  2 4 56 60 
+[recFace]-1847: 13(ms) models index/name: 106/cash machine 4/25-32 0/F
