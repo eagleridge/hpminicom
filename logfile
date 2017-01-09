@@ -7540,3 +7540,17 @@ Mon Jan 9 06:48:29 PST 2017   cnt 515   pushcnt 515   pushskipcnt 0
 [recFace]-1847: 6(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
  mscost  0 4 66 70  1 4 59 63  2 5 55 60 
 [recFace]-1847: 14(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
+      0       0       0
+
+Mon Jan 9 06:58:33 PST 2017   cnt 516   pushcnt 516   pushskipcnt 0
+      0       0       0
+[recFace]-1847: 5(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 12(ms) models index/name: 72/birdhouse 4/25-32 1/M
+ mscost  0 6 66 72  1 5 61 66  2 9 61 70 
+[recFace]-1847: 13(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 10(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 72/birdhouse 4/25-32 1/M
+[recFace]-1847: 6(ms) models index/name: 58/pay-phone 4/25-32 1/M
+[recFace]-1847: 2(ms) models index/name: 58/pay-ph
