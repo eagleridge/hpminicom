@@ -6406,3 +6406,17 @@ Sun Jan 8 17:13:33 PST 2017   cnt 434   pushcnt 434   pushskipcnt 0
  mscost  0 6 66 72  1 6 60 66  2 6 56 62 
 [recFace]-1847: 10(ms) models index/name: 166/cliff dwelling 4/25-32 1/M
 [recFace]-1847: 10(ms) models index/name: 166/c
+      0       0       0
+
+Sun Jan 8 17:23:36 PST 2017   cnt 435   pushcnt 435   pushskipcnt 0
+      0       0       0
+ mscost  0 4 72 76  1 4 55 59  2 4 56 60 
+[recFace]-1847: 11(ms) models index/name: 166/cliff dwelling 4/25-32 0/F
+[recFace]-1847: 4(ms) models index/name: 166/cliff dwelling 4/25-32 0/F
+[recFace]-1847: 0(ms) models index/name: 166/cliff dwelling 4/25-32 0/F
+[recFace]-1847: 2(ms) models index/name: 166/cliff dwelling 4/25-32 0/F
+[recFace]-1847: 3(ms) models index/name: 166/cliff dwelling 4/25-32 0/F
+[recFace]-1847: 4(ms) models index/name: 68/koala 4/25-32 0/F
+[recFace]-1847: 0(ms) models index/name: 68/koala 4/25-32 0/F
+[recFace]-1847: 2(ms) models index/name: 68/koala 4/25-32 0/F
+[recFace]-1847: 6(ms) models index/name: 68/koala 4/25-32 0/F
